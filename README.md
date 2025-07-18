@@ -135,7 +135,7 @@ This comprehensive travel booking system powers multiple production websites inc
 - Clean architecture with extensive testing
 
 **Technical Implementation:**
-- C#, .NET Core
+- .NET Core backend 
 - RESTful APIs with Swagger documentation
 - JWT authentication and rate limiting
 - SQL Server for data persistence
