@@ -1,34 +1,35 @@
-# 👋 Hi, I'm Sandeep Kumar
+# Hello, I'm Sandeep Kumar
+## Senior .NET Developer | Senior Architect | Full-Stack Developer | 15+ Years Experience
 
-## 🚀 Senior .NET Architect & Full-Stack Developer | 15+ Years Experience
+**Contact Information:**
+<div align="left">
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeepkumar0801)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-51aa76209/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SandeepKumar0801@outlook.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013b15e14c6fc4818a)
 
-**🎯 Transforming business ideas into scalable, enterprise-grade solutions**
 
 </div>
 
----
-
-## 💼 **Professional Overview**
-
-With **15+ years** of hands-on experience in software development and architecture, I specialize in building **enterprise-grade applications** that serve millions of users. My expertise spans the entire technology stack, from **database design** to **cloud deployment**, with a proven track record of delivering **mission-critical systems** that handle **100K+ daily requests** with **99.9% uptime**.
-
-### 🎯 **Core Expertise**
-- **🏗️ Enterprise Architecture**: Designing scalable, maintainable systems
-- **🔌 API Development**: RESTful APIs with comprehensive documentation
-- **🚌 Travel Technology**: Booking systems, supplier integrations, real-time processing
-- **☁️ Cloud Solutions**: Azure, AWS deployment and optimization
-- **👥 Team Leadership**: Leading development teams of 5-15 developers
-- **🔐 Security**: JWT, OAuth, certificate-based authentication
+**Transforming business ideas into scalable, enterprise-grade solutions**
 
 ---
 
-## 🛠️ **Technology Stack**
+## Professional Overview
+
+With over 15 years of hands-on experience in software development and architecture, I specialize in building enterprise-grade applications that serve millions of users. My expertise spans the entire technology stack, from database design to cloud deployment, with a proven track record of delivering mission-critical systems that handle over 100,000 daily requests with 99.9% uptime.
+
+### Core Expertise
+- **Enterprise Architecture**: Designing scalable, maintainable systems that grow with business needs
+- **API Development**: Creating robust RESTful APIs with comprehensive documentation
+- **Travel Technology**: Building booking systems, supplier integrations, and real-time processing solutions
+- **Cloud Solutions**: Deploying and optimizing applications on Azure and AWS platforms
+- **Team Leadership**: Successfully leading development teams of 5-15 developers
+- **Security**: Implementing JWT, OAuth, and certificate-based authentication systems
+
+---
+
+## Technology Stack
 
 <div align="center">
 
@@ -97,79 +98,131 @@ With **15+ years** of hands-on experience in software development and architectu
 
 ---
 
-## 🏆 **Professional Highlights**
-
-<div align="center">
+## Professional Highlights
 
 | Metric | Achievement | Impact |
 |--------|-------------|--------|
-| **🕐 Experience** | 15+ Years | Senior Full-Stack Architect |
-| **👥 Team Leadership** | 5-15 Developers | Multiple Successful Deliveries |
-| **📊 Daily API Requests** | 100K+ Handled | High-Performance Travel Systems |
-| **⚡ System Uptime** | 99.9% SLA | Mission-Critical Reliability |
-| **🔗 API Integrations** | 20+ Travel Suppliers | Complex Multi-Vendor Systems |
-| **🏨 Hotel Processing** | 10K+ Daily Rebookings | RebookingAtLowerCostEngine |
-| **🚂 Railway Operations** | Multi-Station IPIS | Real-Time Passenger Information |
-| **💰 Cost Savings** | 15-30% via RebookingAtLowerCostEngine | Intelligent Booking Algorithms |
-| **🌍 Global Reach** | 100+ Cities Served | International Travel Platforms |
-| **🏗️ Architecture** | Microservices & Clean Code | Scalable Enterprise Solutions |
-| **☁️ Cloud Deployment** | Azure & Multi-Environment | DevOps & Infrastructure as Code |
-| **🚀 Project Portfolio** | 8+ Major Systems | Travel, Logistics, Finance, Railway |
-
-</div>
+| **Experience** | 15+ Years | Senior Full-Stack Architect |
+| **Team Leadership** | 5-15 Developers | Multiple Successful Deliveries |
+| **Daily API Requests** | 100K+ Handled | High-Performance Travel Systems |
+| **System Uptime** | 99.9% SLA | Mission-Critical Reliability |
+| **API Integrations** | 20+ Travel Suppliers | Complex Multi-Vendor Systems |
+| **Hotel Processing** | 10K+ Daily Rebookings | RebookingAtLowerCostEngine |
+| **Railway Operations** | Multi-Station IPIS | Real-Time Passenger Information |
+| **Cost Savings** | 15-30% via RebookingAtLowerCostEngine | Intelligent Booking Algorithms |
+| **Global Reach** | 100+ Cities Served | International Travel Platforms |
+| **Architecture** | Microservices & Clean Code | Scalable Enterprise Solutions |
+| **Cloud Deployment** | Azure & Multi-Environment | DevOps & Infrastructure as Code |
+| **Project Portfolio** | 8+ Major Systems | Travel, Logistics, Finance, Railway |
 
 ---
 
-## 💼 **Project Portfolio Overview**
+## Project Portfolio Overview
 
-*Based on actual projects from E:\_work and D:\_Work directories*
+### Travel & Tourism Technology
 
-### 🚌 **Travel & Tourism Technology**
+#### **[Tours and Activities API](./ToursAndActivities)**
+**Enterprise booking API serving over 100,000 daily requests**
 
-#### **[🌟 Tours and Activities API (BumbleBee Core)](./ToursAndActivities)**
-**Enterprise booking API serving 100K+ daily requests**
-- **Tech Stack**: .NET 6, SQL Server, Redis, Azure, Hangfire, Entity Framework Core
-- **Scale**: 20+ supplier integrations (Tiqets, Bokun, BigBus, HotelBeds, GetYourGuide)
-- **Impact**: Powers www.hop-on-hop-off-bus.com and multiple white-label booking platforms
-- **Features**: Real-time booking, multi-language support, automated vouchers, background processing
-- **Architecture**: Clean architecture with service adapters, comprehensive caching layer, extensive testing
-- **APIs**: RESTful APIs with Swagger documentation, JWT authentication, rate limiting
+This comprehensive travel booking system powers multiple production websites including www.hop-on-hop-off-bus.com. Built with .NET 6, it integrates with over 20 major travel suppliers including Tiqets, Bokun, BigBus, HotelBeds, and GetYourGuide.
 
-#### **[🏨 RebookingAtLowerCostEngine](./RebookingAtLowerCostEngine)**
+**Key Features:**
+- Real-time booking and availability checking
+- Multi-language support for international customers
+- Automated voucher generation and delivery
+- Background processing with Hangfire
+- Comprehensive caching layer using Redis
+- Clean architecture with extensive testing
+
+**Technical Implementation:**
+- RESTful APIs with Swagger documentation
+- JWT authentication and rate limiting
+- SQL Server for data persistence
+- Azure cloud deployment
+- Entity Framework Core for data access
+
+#### **[RebookingAtLowerCostEngine](./RebookingAtLowerCostEngine)**
 **Advanced hotel pricing optimization and automated rebooking system**
-- **Tech Stack**: .NET Core, SQL Server, Azure Batch, Hangfire, MongoDB, Redis
-- **Features**: Multi-supplier price comparison, automated rebooking at lower costs, ML-based optimization
-- **Scale**: Processes 10,000+ hotel reservations daily with real-time price monitoring
-- **Components**: Irix entities, service adapters, Azure batch processing, reservation management
-- **Impact**: 15-30% cost savings through intelligent rebooking and dynamic pricing algorithms
-- **Integration**: Multiple hotel booking APIs, payment gateways, notification systems
 
-#### **[🏢 Property Management System (PMS)](./PMS)**
+This intelligent system processes over 10,000 hotel reservations daily, continuously monitoring prices across multiple suppliers to automatically rebook customers at lower rates, achieving 15-30% cost savings.
+
+**Key Features:**
+- Multi-supplier price comparison algorithms
+- Automated rebooking at lower costs
+- Machine learning-based optimization
+- Real-time price monitoring
+- Dynamic pricing algorithms
+
+**Technical Implementation:**
+- .NET Core backend with Azure Batch processing
+- SQL Server and MongoDB for data storage
+- Hangfire for background job processing
+- Redis for high-performance caching
+- Integration with multiple hotel booking APIs
+- Comprehensive notification systems
+
+#### **[Property Management System (PMS)](./PMS)**
 **Comprehensive multi-tenant property and facility management platform**
-- **Tech Stack**: .NET Core, SQL Server, Angular 15+, Azure DevOps, Docker
-- **Features**: Multi-tenant architecture, gate management, inventory tracking, advanced reporting
-- **Modules**: Backend API, database management, responsive frontend UI, Azure pipeline integration
-- **Scale**: Enterprise-grade system supporting 50+ properties and 1000+ facilities
-- **Environments**: Multiple deployment environments (Belt, Karamat, Leather) with automated CI/CD
 
-#### **[🎯 Lumora Resort Platform](./lumora)**
+An enterprise-grade system supporting over 50 properties and 1000+ facilities with complete management capabilities.
+
+**Key Features:**
+- Multi-tenant architecture for scalability
+- Gate management and access control
+- Inventory tracking and management
+- Advanced reporting and analytics
+- Responsive frontend interface
+
+**Technical Implementation:**
+- .NET Core backend with SQL Server
+- Angular 15+ frontend framework
+- Docker containerization
+- Azure DevOps for CI/CD
+- Multiple deployment environments (Belt, Karamat, Leather)
+
+#### **[Lumora Resort Platform](./lumora)**
 **Luxury resort and hospitality website with modern design**
-- **Tech Stack**: Next.js 13+, React 18, Tailwind CSS, GSAP animations, TypeScript
-- **Features**: Responsive design, interactive image galleries, amenities showcase, contact management
-- **Performance**: Static site generation, optimized images, smooth animations, 95+ Lighthouse score
-- **Deployment**: Render.com deployment with automated builds and CDN integration
 
-#### **[🚂 Railway Management System (IPIS)](./Rail)**
+A high-performance resort website featuring modern design principles and achieving 95+ Lighthouse performance scores.
+
+**Key Features:**
+- Responsive design for all devices
+- Interactive image galleries
+- Amenities showcase and booking
+- Contact management system
+- Smooth animations and transitions
+
+**Technical Implementation:**
+- Next.js 13+ with React 18
+- TypeScript for type safety
+- Tailwind CSS for styling
+- GSAP for animations
+- Static site generation for performance
+- Render.com deployment with CDN
+
+#### **[Railway Management System (IPIS)](./Rail)**
 **Comprehensive railway operations and passenger information system**
-- **Tech Stack**: .NET Framework, SQLite, Windows Forms, Web API, Access Database
-- **Features**: Train scheduling, station management, passenger information system (IPIS), voice announcements
-- **Components**: Desktop applications, database management, API integrations, audio systems
-- **Scale**: Handles complex railway operations across multiple stations and routes
-- **Audio**: Multi-language voice announcements with 100+ pre-recorded train and station names
 
-### 🏗️ **Enterprise & Logistics Solutions**
+A complete railway management solution handling operations across multiple stations with real-time passenger information and multi-language announcements.
 
-#### **[📦 Logistics Management System (Channel Connector)](./logistics)**
+**Key Features:**
+- Train scheduling and management
+- Station operations control
+- Passenger information system (IPIS)
+- Multi-language voice announcements
+- Real-time status updates
+
+**Technical Implementation:**
+- .NET Framework with Windows Forms
+- SQLite and Access Database integration
+- Web API for external integrations
+- Audio system integration
+- Desktop applications for station management
+- 100+ pre-recorded announcements in multiple languages
+
+### **Enterprise & Logistics Solutions**
+
+#### **[Logistics Management System (Channel Connector)](./logistics)**
 **Enterprise multi-marketplace synchronization and logistics platform**
 - **Backend**: Node.js, Express.js, MySQL, JWT authentication, comprehensive Swagger API documentation
 - **Frontend**: React 18, Vite, Tailwind CSS, responsive design with real-time updates
@@ -190,7 +243,7 @@ With **15+ years** of hands-on experience in software development and architectu
 - **[BlueDart Integration API](https://www.bluedart.com/business-integrations)**: Express shipping, real-time tracking, delivery management
 - **[DTDC Express API](https://www.aftership.com/carriers/dtdc/api)**: Courier services, shipment tracking, delivery notifications
 
-**🚀 Core Functionalities:**
+**Core Functionalities:**
 - **Product Synchronization**: Bi-directional sync across all marketplaces with variant support
 - **Inventory Management**: Real-time stock updates, low-stock alerts, automated reordering
 - **Order Processing**: Centralized order management, status updates, automated fulfillment
@@ -199,30 +252,30 @@ With **15+ years** of hands-on experience in software development and architectu
 - **Error Management**: Comprehensive error logging, retry mechanisms, alert systems
 - **Cron Automation**: Scheduled sync jobs, automated data processing, background tasks
 
-**📊 Scale & Performance:**
+**Scale & Performance:**
 - **Multi-tenant architecture** supporting 100+ clients simultaneously
 - **Real-time synchronization** across 8+ major marketplaces
 - **Automated processing** of 10,000+ products and orders daily
 - **Comprehensive API documentation** with 150+ endpoints
 - **Advanced error handling** with retry logic and alert management
 
-#### **[🌐 DigispinWeb Platform](./DigispinWeb)**
+#### **[DigispinWeb Platform](./DigispinWeb)**
 **Modern web application with Vue.js ecosystem**
 - **Tech Stack**: Vue.js 3, Nuxt.js 3, TypeScript, Tailwind CSS, Vite
 - **Features**: Server-side rendering, responsive design, modern UI/UX, PWA capabilities
 - **Deployment**: Azure Static Web Apps with automated CI/CD pipelines
 - **Performance**: Optimized build process, lazy loading, and efficient asset management
 
-#### **[☁️ Azure Pipeline Infrastructure (IaC)](./AzurePipeline-IaC)**
+#### **[Azure Pipeline Infrastructure (IaC)](./AzurePipeline-IaC)**
 **Infrastructure as Code for multiple production environments**
 - **Tech Stack**: Azure DevOps, YAML pipelines, ARM templates, PowerShell scripts
 - **Environments**: Multiple PMS environments (Belt, Karamat, Leather) with environment-specific configurations
 - **Features**: Automated deployments, database migrations, frontend builds, rollback capabilities
 - **Scale**: Manages infrastructure for 10+ production applications with zero-downtime deployments
 
-### 🤖 **AI & Financial Technology**
+### **AI & Financial Technology**
 
-#### **[📈 Zerodha MCP Trading Platform](./zerodha%20mcp)**
+#### **[Zerodha MCP Personlaized Trading Platform](./zerodha%20mcp)**
 **AI-powered trading platform with real-time analytics**
 - **Tech Stack**: Python 3.11+, Streamlit, OpenAI GPT-4, Kite Connect API, Plotly
 - **Features**: Real-time portfolio analytics, AI investment recommendations, automated trading
@@ -231,9 +284,9 @@ With **15+ years** of hands-on experience in software development and architectu
 - **Security**: OAuth integration, secure credential management, session persistence
 - **Visualization**: Interactive TradingView charts, custom dashboards, performance metrics
 
-### 🛠️ **Development Tools & Infrastructure**
+### **Development Tools & Infrastructure**
 
-#### **[🔧 Development Tools Suite](./Tools)**
+#### **[Development Tools Suite](./Tools)**
 **Comprehensive development and debugging toolkit**
 - **Tools**: JetBrains dotPeek, dnSpy, Database engines, Migration utilities
 - **Purpose**: Code analysis, reverse engineering, database management, debugging
@@ -242,11 +295,11 @@ With **15+ years** of hands-on experience in software development and architectu
 
 ---
 
-## 📊 **Technology Portfolio & Analytics**
+## **Technology Portfolio & Analytics**
 
 <div align="center">
 
-### **🏗️ Project Technology Distribution**
+### ** Project Technology Distribution**
 
 | Technology | Projects | Usage | Expertise Level |
 |------------|----------|-------|-----------------|
@@ -259,57 +312,57 @@ With **15+ years** of hands-on experience in software development and architectu
 | **Vue.js/Nuxt.js** | 1 Project | 12% | ⭐⭐⭐⭐ Advanced |
 | **Azure** | 4 Projects | 50% | ⭐⭐⭐⭐⭐ Expert |
 
-### **📈 Project Complexity & Scale**
+### ** Project Complexity & Scale**
 
 ![Enterprise Projects](https://img.shields.io/badge/Enterprise_Projects-8-success?style=for-the-badge&logo=enterprise&logoColor=white)
 ![API Integrations](https://img.shields.io/badge/API_Integrations-20+-blue?style=for-the-badge&logo=api&logoColor=white)
 ![Daily Requests](https://img.shields.io/badge/Daily_Requests-100K+-orange?style=for-the-badge&logo=analytics&logoColor=white)
 ![Production Systems](https://img.shields.io/badge/Production_Systems-6-red?style=for-the-badge&logo=server&logoColor=white)
 
-### **🎯 Domain Expertise**
+### ** Domain Expertise**
 
-```
-Travel & Tourism Technology    ████████████████████ 100%
-Enterprise Logistics          ████████████████████ 100%
-Financial Technology          ████████████████     80%
-Railway Management Systems    ████████████████████ 100%
-E-commerce Integrations       ████████████████████ 100%
-Cloud Infrastructure          ████████████████████ 100%
-```
+| Domain | Proficiency | Projects |
+|--------|-------------|----------|
+| **Travel & Tourism Technology** | ████████████████████ 100% | 4 Projects |
+| **Enterprise Logistics** | ████████████████████ 100% | 1 Major System |
+| **Financial Technology** | ████████████████ 80% | 1 Advanced Platform |
+| **Railway Management Systems** | ████████████████████ 100% | 1 Comprehensive System |
+| **E-commerce Integrations** | ████████████████████ 100% | 9 API Integrations |
+| **Cloud Infrastructure** | ████████████████████ 100% | 4 Azure Projects |
 
 </div>
 
 ---
 
-## 🌟 **What Sets Me Apart**
+## **What Sets Me Apart**
 
-### 🎯 **Business-Focused Development**
+### **Business-Focused Development**
 I don't just write code—I solve business problems. Every solution I build is designed with **ROI**, **scalability**, and **maintainability** in mind.
 
-### 🚀 **Proven Track Record**
+### **Proven Track Record**
 - **15+ years** of consistent delivery
 - **50+ successful projects** across various industries
 - **Zero critical production failures** in the last 5 years
 - **100% client satisfaction** rate on Upwork
 
-### 🔧 **Full-Stack Expertise**
+### **Full-Stack Expertise**
 From **database design** to **user interface**, I handle every aspect of application development with equal proficiency.
 
-### 👥 **Leadership & Mentoring**
+### **Leadership & Mentoring**
 Successfully led development teams, mentored junior developers, and established coding standards that improved team productivity by 40%.
 
 ---
 
-## 🤝 **Let's Build Something Amazing Together**
+## **Let's Build Something Amazing Together**
 
 I'm passionate about transforming complex business requirements into elegant, scalable solutions. Whether you need:
 
-- 🏗️ **Enterprise Architecture** - Designing systems that scale
-- 🔌 **API Development** - Building robust, documented APIs
-- 🚌 **Travel Technology** - Booking systems and integrations
-- ☁️ **Cloud Migration** - Moving to Azure/AWS
-- 👥 **Team Leadership** - Leading development initiatives
-- 🔧 **Legacy Modernization** - Upgrading existing systems
+- **Enterprise Architecture** - Designing systems that scale
+- **API Development** - Building robust, documented APIs
+- **Travel Technology** - Booking systems and integrations
+- **Cloud Migration** - Moving to Azure/AWS
+- **Team Leadership** - Leading development initiatives
+- **Legacy Modernization** - Upgrading existing systems
 
 **I deliver enterprise-grade solutions with clean code, comprehensive documentation, and measurable business impact.**
 
@@ -317,10 +370,10 @@ I'm passionate about transforming complex business requirements into elegant, sc
 
 <div align="center">
 
-**💼 Available for freelance projects | 📧 SandeepKumar0801@outlook.com**
+**Available for freelance projects | SandeepKumar0801@outlook.com**
 
 [![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013b15e14c6fc4818a)
 
-**⭐ Ready to discuss your next project? Let's connect!**
+** Ready to discuss your next project? Let's connect!**
 
 </div>
