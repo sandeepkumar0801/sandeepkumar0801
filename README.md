@@ -56,7 +56,6 @@ With over 15 years of hands-on experience in software development and architectu
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Azure Batch](https://img.shields.io/badge/Azure_Batch-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![IaC](https://img.shields.io/badge/Infrastructure_as_Code-FF6B35?style=for-the-badge&logo=terraform&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### **Frontend & Mobile**
