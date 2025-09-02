@@ -325,12 +325,13 @@ A complete railway management solution handling operations across multiple stati
 
 | Domain | Proficiency | Projects |
 |--------|-------------|----------|
-| **Travel & Tourism Technology** | ████████████████████ 100% | 4 Projects |
-| **Enterprise Logistics** | ████████████████████ 100% | 1 Major System |
-| **Financial Technology** | ████████████████ 80% | 1 Advanced Platform |
-| **Railway Management Systems** | ████████████████████ 100% | 1 Comprehensive System |
-| **E-commerce Integrations** | ████████████████████ 100% | 9 API Integrations |
-| **Cloud Infrastructure** | ████████████████████ 100% | 4 Azure Projects |
+| **Travel & Tourism Technology** | ████████████████████ 100% | 4 Projects (ToursAndActivities, RebookingAtLowerCostEngine, PMS, Railway IPIS) |
+| **Enterprise Logistics** | ████████████████████ 100% | 1 Major System (Channel Connector) |
+| **Financial Technology** | ████████████████ 80% | 1 Advanced Platform (Zerodha Trading) |
+| **Railway Management Systems** | ████████████████████ 100% | 1 Comprehensive System (IPIS) |
+| **E-commerce Integrations** | ████████████████████ 100% | 7 API Integrations (Amazon, Shopify, eBay, WooCommerce, Magento, PrestaShop, Mirakl) |
+| **Cloud Infrastructure** | ████████████████████ 100% | 5 Azure Projects (ToursAndActivities, RebookingEngine, PMS, DigispinWeb, Azure IaC) |
+| **Web Development** | ████████████████████ 100% | 3 Projects (Lumora Resort, DigispinWeb, Development Tools) |
 
 </div>
 
