@@ -301,16 +301,18 @@ A complete railway management solution handling operations across multiple stati
 
 ### ** Project Technology Distribution**
 
-| Technology | Projects | Usage | Expertise Level |
-|------------|----------|-------|-----------------|
-| **C# / .NET** | 5 Projects | 62% | ⭐⭐⭐⭐⭐ Expert |
-| **JavaScript/Node.js** | 3 Projects | 38% | ⭐⭐⭐⭐⭐ Expert |
-| **Python** | 1 Project | 12% | ⭐⭐⭐⭐ Advanced |
-| **SQL Server** | 4 Projects | 50% | ⭐⭐⭐⭐⭐ Expert |
-| **MySQL** | 2 Projects | 25% | ⭐⭐⭐⭐ Advanced |
-| **React/Next.js** | 3 Projects | 38% | ⭐⭐⭐⭐ Advanced |
-| **Vue.js/Nuxt.js** | 1 Project | 12% | ⭐⭐⭐⭐ Advanced |
-| **Azure** | 4 Projects | 50% | ⭐⭐⭐⭐⭐ Expert |
+| Technology | Projects | Repository/Project Names | Expertise Level |
+|------------|----------|--------------------------|-----------------|
+| **C# / .NET** | 5 Projects | ToursAndActivities, RebookingAtLowerCostEngine, PMS, Railway IPIS, Development Tools | ⭐⭐⭐⭐⭐ Expert |
+| **SQL Server / MySQL** | 5 Projects | ToursAndActivities, RebookingAtLowerCostEngine, PMS, Railway IPIS, Logistics System | ⭐⭐⭐⭐⭐ Expert |
+| **JavaScript/Node.js** | 3 Projects | Logistics System, Lumora Resort, DigispinWeb | ⭐⭐⭐ Intermediate |
+| **React/Next.js** | 2 Projects | Lumora Resort, Logistics System | ⭐⭐⭐ Intermediate |
+| **Vue.js/Nuxt.js** | 2 Projects | RebookingAtLowerCostEngine, DigispinWeb Platform | ⭐⭐⭐ Intermediate |
+| **Angular** | 1 Project | Property Management System (PMS) | ⭐⭐⭐ Intermediate |
+| **Python** | 1 Project | Zerodha Trading Platform | ⭐⭐ Basic |
+| **Azure** | 5 Projects | ToursAndActivities, RebookingAtLowerCostEngine, PMS, DigispinWeb, Azure IaC | ⭐⭐⭐⭐ Advanced |
+| **AWS** | 2 Projects | Channel Connector (Lambda, S3, EC2), Amazon Selling Partner API Integration | ⭐⭐⭐ Intermediate |
+| **Redis** | 2 Projects | ToursAndActivities, RebookingAtLowerCostEngine | ⭐⭐⭐⭐ Advanced |
 
 ### ** Project Complexity & Scale**
 

@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sandeep Kumar - Senior Full Stack Developer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #fff;
+            font-size: 11px;
+        }
+        
+        .container {
+            max-width: 210mm;
+            margin: 0 auto;
+            padding: 15mm;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #2c5aa0;
+            padding-bottom: 15px;
+        }
+        
+        .header-content {
+            flex: 1;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            color: #2c5aa0;
+            margin-bottom: 5px;
+            font-weight: 700;
+        }
+        
+        .header h2 {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 10px;
+            font-weight: 400;
+        }
+        
+        .contact-info {
+            font-size: 10px;
+            line-height: 1.4;
+        }
+        
+        .contact-info a {
+            color: #2c5aa0;
+            text-decoration: none;
+        }
+        
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        
+        .profile-photo {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-left: 20px;
+            border: 3px solid #2c5aa0;
+            object-fit: cover;
+        }
+        
+        .section {
+            margin-bottom: 20px;
+        }
+        
+        .section h3 {
+            font-size: 16px;
+            color: #2c5aa0;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+        
+        .summary {
+            font-size: 12px;
+            text-align: justify;
+            background: #f8f9fa;
+            padding: 15px;
+            border-left: 4px solid #2c5aa0;
+            margin-bottom: 20px;
+        }
+        
+        .project-item {
+            margin-bottom: 15px;
+            border-left: 3px solid #e0e0e0;
+            padding-left: 15px;
+        }
+        
+        .project-item h4 {
+            font-size: 13px;
+            color: #2c5aa0;
+            margin-bottom: 3px;
+            font-weight: 600;
+        }
+        
+        .project-item .role {
+            font-size: 10px;
+            color: #666;
+            font-style: italic;
+            margin-bottom: 3px;
+        }
+        
+        .project-item .tech-stack {
+            font-size: 9px;
+            color: #888;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        
+        .project-item ul {
+            font-size: 10px;
+            margin-left: 15px;
+        }
+        
+        .project-item li {
+            margin-bottom: 2px;
+        }
+        
+        .skills-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        
+        .skill-category h4 {
+            font-size: 12px;
+            color: #2c5aa0;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .skill-category ul {
+            list-style: none;
+            font-size: 10px;
+        }
+        
+        .skill-category li {
+            margin-bottom: 3px;
+            padding-left: 15px;
+            position: relative;
+        }
+        
+        .skill-category li:before {
+            content: "▸";
+            color: #2c5aa0;
+            position: absolute;
+            left: 0;
+        }
+        
+        .highlight {
+            background: #fff3cd;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: 600;
+        }
+        
+        .education {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        
+        .education h4 {
+            font-size: 12px;
+            color: #2c5aa0;
+            margin-bottom: 3px;
+        }
+        
+        .education p {
+            font-size: 10px;
+            color: #666;
+        }
+
+        .tech-stack-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            font-size: 10px;
+            background: #fff;
+            border: 1px solid #e0e0e0;
+        }
+
+        .tech-stack-table th {
+            background: #2c5aa0;
+            color: white;
+            padding: 8px 10px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 11px;
+            border: 1px solid #1e3d6f;
+        }
+
+        .tech-stack-table td {
+            padding: 6px 10px;
+            border: 1px solid #e0e0e0;
+            vertical-align: top;
+            line-height: 1.4;
+        }
+
+        .tech-stack-table tr:nth-child(even) {
+            background: #f8f9fa;
+        }
+
+        .tech-stack-table tr:hover {
+            background: #e3f2fd;
+        }
+
+        .tech-category {
+            font-weight: 600;
+            color: #2c5aa0;
+            min-width: 140px;
+        }
+
+        .tech-list {
+            color: #333;
+        }
+
+        .experience-item {
+            margin-bottom: 20px;
+            border-left: 3px solid #2c5aa0;
+            padding-left: 15px;
+            position: relative;
+        }
+
+        .experience-item::before {
+            content: "";
+            position: absolute;
+            left: -6px;
+            top: 0;
+            width: 9px;
+            height: 9px;
+            background: #2c5aa0;
+            border-radius: 50%;
+        }
+
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 5px;
+        }
+
+        .experience-title {
+            flex: 1;
+        }
+
+        .experience-title h4 {
+            font-size: 13px;
+            color: #2c5aa0;
+            margin-bottom: 2px;
+            font-weight: 600;
+        }
+
+        .experience-title .company {
+            font-size: 12px;
+            color: #333;
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+
+        .experience-duration {
+            font-size: 10px;
+            color: #666;
+            font-weight: 500;
+            background: #f0f8ff;
+            padding: 3px 8px;
+            border-radius: 12px;
+            white-space: nowrap;
+        }
+
+        .experience-tech {
+            font-size: 9px;
+            color: #888;
+            margin-bottom: 8px;
+            font-style: italic;
+        }
+
+        .experience-item ul {
+            font-size: 10px;
+            margin-left: 15px;
+            margin-top: 5px;
+        }
+
+        .experience-item li {
+            margin-bottom: 3px;
+            line-height: 1.4;
+        }
+
+        @media print {
+            body {
+                font-size: 10px;
+            }
+            .container {
+                box-shadow: none;
+                padding: 10mm;
+            }
+            .section {
+                margin-bottom: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <div class="header">
+            <div class="header-content">
+                <h1>SANDEEP KUMAR</h1>
+                <h2>Senior Full Stack Developer | Solution Architect | 14+ Years Experience</h2>
+                <div class="contact-info">
+                    Email: <a href="mailto:sandeepkof@gmail.com">sandeepkof@gmail.com</a> | Phone: (+91) 9910005922<br>
+                    LinkedIn: <a href="https://linkedin.com/in/sandeep-kumar-51aa76209">linkedin.com/in/sandeep-kumar-51aa76209</a><br>
+                    GitHub: <a href="https://github.com/sandeepkumar0801">github.com/sandeepkumar0801</a><br>
+                    <!-- Upwork: <a href="https://upwork.com/freelancers/~013b15e14c6fc4818a">upwork.com/freelancers/~013b15e14c6fc4818a</a> -->
+                </div>
+            </div>
+            <img src="sandeep_photo.jpg" alt="Sandeep Kumar" class="profile-photo">
+        </div>
+
+        <!-- Professional Summary -->
+        <div class="summary">
+            <strong>Performance-driven Senior Developer</strong> with 14+ years of experience architecting and optimizing enterprise-scale systems. Proven track record of <span class="highlight">reducing infrastructure costs by 25%</span> while <span class="highlight">improving performance by 60%</span> for systems handling <span class="highlight">100K+ daily requests</span>. Expert in full-stack development, cloud architecture, and DevOps practices with <span class="highlight">AI-enhanced productivity</span> delivering <span class="highlight">25% faster development cycles</span>.
+        </div>
+
+        <!-- Technology Stack -->
+        <div class="section">
+            <h3>TECHNOLOGY STACK</h3>
+            <table class="tech-stack-table">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Technologies</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tech-category">Programming Languages</td>
+                        <td class="tech-list">C#, Node, JavaScript, Python, SQL,</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Core Frameworks</td>
+                        <td class="tech-list">.NET Core 6/7/8/9, ASP.NET Core, Entity Framework Core, Blazor, SignalR</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Web Technologies</td>
+                        <td class="tech-list">ASP.NET Core Web API, MVC, Razor Pages, RESTful APIs, GraphQL, FastAPI</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Frontend Frameworks</td>
+                        <td class="tech-list">React, Angular 15+, Blazor Server/WebAssembly, Material-UI, Bootstrap</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Azure Cloud Services</td>
+                        <td class="tech-list">App Service, Azure Functions, Service Bus, Event Grid, Key Vault, Application Insights, Container Instances</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Database Technologies</td>
+                        <td class="tech-list">SQL Server, Azure SQL Database, PostgreSQL, MySQL, MongoDB, Redis, Entity Framework Core, Dapper</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">DevOps & CI/CD</td>
+                        <td class="tech-list">Azure DevOps, Azure Pipelines, Docker, Kubernetes, ARM Templates, Infrastructure as Code (IaC)</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Development Tools</td>
+                        <td class="tech-list">Visual Studio 2022, VS Code, Git, GitHub, Swagger/OpenAPI, Postman, Cursor, Continue</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Architecture Patterns</td>
+                        <td class="tech-list">Clean Architecture, CQRS, Repository Pattern, Dependency Injection, Microservices, Multi-tenant</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Performance & Caching</td>
+                        <td class="tech-list">Redis Caching, In-Memory Caching, Query Optimization, Auto-scaling, Load Balancing</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">AI-Enhanced Development</td>
+                        <td class="tech-list">ChatGPT, Claude, Cursor AI, Continue, GitHub Copilot, AI-assisted code review and optimization</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Technology Expertise -->
+        <div class="section">
+            <h3>TECHNOLOGY EXPERTISE & PROJECT DISTRIBUTION</h3>
+            <table class="tech-stack-table">
+                <thead>
+                    <tr>
+                        <th>Technology</th>
+                        <th>Projects</th>
+                        <th>Repository/Project Names</th>
+                        <th>Expertise Level</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tech-category">C# / .NET</td>
+                        <td class="tech-list">5 Projects</td>
+                        <td class="tech-list">ToursAndActivities, RebookingEngine, PMS, Railway IPIS, Development Tools</td>
+                        <td class="tech-list">⭐⭐⭐⭐⭐ Expert</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">SQL Server / MySQL</td>
+                        <td class="tech-list">5 Projects</td>
+                        <td class="tech-list">ToursAndActivities, RebookingEngine, PMS, Railway IPIS, Logistics System</td>
+                        <td class="tech-list">⭐⭐⭐⭐⭐ Expert</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">JavaScript/Node.js</td>
+                        <td class="tech-list">3 Projects</td>
+                        <td class="tech-list">Logistics System, Lumora Resort, DigispinWeb</td>
+                        <td class="tech-list">⭐⭐⭐ Intermediate</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">React/Next.js</td>
+                        <td class="tech-list">2 Projects</td>
+                        <td class="tech-list">Lumora Resort, Logistics System</td>
+                        <td class="tech-list">⭐⭐⭐ Intermediate</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Vue.js/Nuxt.js</td>
+                        <td class="tech-list">2 Projects</td>
+                        <td class="tech-list">RebookingAtLowerCostEngine, DigispinWeb Platform</td>
+                        <td class="tech-list">⭐⭐⭐ Intermediate</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Angular</td>
+                        <td class="tech-list">1 Project</td>
+                        <td class="tech-list">Property Management System (PMS)</td>
+                        <td class="tech-list">⭐⭐⭐ Intermediate</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Python</td>
+                        <td class="tech-list">1 Project</td>
+                        <td class="tech-list">Zerodha Trading Platform</td>
+                        <td class="tech-list">⭐⭐ Basic</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Azure</td>
+                        <td class="tech-list">5 Projects</td>
+                        <td class="tech-list">ToursAndActivities, RebookingEngine, PMS, DigispinWeb, Azure IaC</td>
+                        <td class="tech-list">⭐⭐⭐⭐ Advanced</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">AWS</td>
+                        <td class="tech-list">2 Projects</td>
+                        <td class="tech-list">Channel Connector (Lambda, S3, EC2), Amazon Selling Partner API Integration</td>
+                        <td class="tech-list">⭐⭐⭐ Intermediate</td>
+                    </tr>
+                    <tr>
+                        <td class="tech-category">Redis</td>
+                        <td class="tech-list">2 Projects</td>
+                        <td class="tech-list">ToursAndActivities, RebookingAtLowerCostEngine</td>
+                        <td class="tech-list">⭐⭐⭐⭐ Advanced</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Work Experience -->
+        <div class="section">
+            <h3>PROFESSIONAL EXPERIENCE</h3>
+
+            <div class="experience-item">
+                <div class="experience-header">
+                    <div class="experience-title">
+                        <h4>Senior Architect</h4>
+                        <div class="company">Digispin Tech</div>
+                    </div>
+                    <div class="experience-duration">Dec 2022 - Present</div>
+                </div>
+                <div class="experience-tech">Technologies: .NET Core 6/7/8, Node, Python, Azure App Services, Azure Functions, Azure DevOps, Docker, Kubernetes, React, SQL Server, Redis</div>
+                <ul>
+                    <li><strong>Solution Architecture:</strong> Designed and implemented scalable microservices architecture for enterprise travel booking platform handling <strong>100K+ daily requests</strong> with 99.9% uptime</li>
+                    <li><strong>Azure Cloud Leadership:</strong> Led cloud migration strategy reducing infrastructure costs by <strong>25%</strong> through Azure App Services, auto-scaling policies, and reserved instances</li>
+                    <li><strong>DevOps Excellence:</strong> Established CI/CD pipelines using Azure DevOps and Docker, reducing deployment time from <strong>4 hours to 15 minutes</strong></li>
+                    <li><strong>Full-Stack Development:</strong> Architected end-to-end solutions using .NET Core APIs, React frontend, and Azure SQL Database with Redis caching layer</li>
+                    <li><strong>Performance Optimization:</strong> Achieved <strong>75% API response time improvement</strong> (2000ms to 500ms) through parallel processing and caching strategies</li>
+                    <li><strong>Team Leadership:</strong> Led cross-functional team of 15 developers, delivering 5 high-visibility projects with <strong>20% increase in client satisfaction</strong></li>
+                    <li><strong>Innovation Implementation:</strong> Spearheaded adoption of Infrastructure as Code (IaC) and sustainable development practices, leading to significant cost savings</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="experience-header">
+                    <div class="experience-title">
+                        <h4>Senior Software Engineer</h4>
+                        <div class="company">Isango India Private Limited</div>
+                    </div>
+                    <div class="experience-duration">Jun 2017 - Nov 2022</div>
+                </div>
+                <div class="experience-tech">Technologies: C#, Node, Python, .NET Framework/Core, SQL Server, SSRS, MVC, Web API, Angular, JavaScript</div>
+                <ul>
+                    <li><strong>Enterprise Development:</strong> Developed and maintained large-scale travel and tourism applications serving international markets</li>
+                    <li><strong>Database Optimization:</strong> Designed complex SQL Server databases with advanced stored procedures and SSRS reporting solutions</li>
+                    <li><strong>API Development:</strong> Built robust RESTful Web APIs for third-party integrations and mobile applications</li>
+                    <li><strong>Frontend Leadership:</strong> Led frontend development using Angular and modern JavaScript frameworks</li>
+                    <li><strong>Research & Development:</strong> Conducted technical analysis and R&D for new feature implementations and system improvements</li>
+                    <li><strong>Code Quality:</strong> Implemented best practices for code review, testing, and documentation across development teams</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="experience-header">
+                    <div class="experience-title">
+                        <h4>Software Engineer</h4>
+                        <div class="company">Quark Technet Pvt. Ltd</div>
+                    </div>
+                    <div class="experience-duration">May 2016 - Aug 2016</div>
+                </div>
+                <div class="experience-tech">Technologies: C#, .NET, SQL Server, WCF, MVC, SSIS, SSRS, TFS, SCOM, AngularJS, jQuery</div>
+                <ul>
+                    <li><strong>Full-Stack Development:</strong> Developed enterprise applications using .NET technologies with 5+ years of hands-on experience</li>
+                    <li><strong>Integration Services:</strong> Implemented SSIS packages for data integration and ETL processes</li>
+                    <li><strong>Service Architecture:</strong> Built WCF services for distributed application architecture</li>
+                    <li><strong>Frontend Development:</strong> Created responsive web interfaces using AngularJS and jQuery</li>
+                    <li><strong>DevOps Tools:</strong> Utilized TFS for version control and SCOM for system monitoring and operations management</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="experience-header">
+                    <div class="experience-title">
+                        <h4>Software Engineer</h4>
+                        <div class="company">Condeco Software Pvt. Ltd.</div>
+                    </div>
+                    <div class="experience-duration">Jul 2014 - Apr 2016</div>
+                </div>
+                <div class="experience-tech">Technologies: C#, .NET Framework, SQL Server, ASP.NET, Web Services</div>
+                <ul>
+                    <li><strong>Application Development:</strong> Developed and maintained business applications using .NET Framework and SQL Server</li>
+                    <li><strong>Web Services:</strong> Created SOAP-based web services for system integrations</li>
+                    <li><strong>Database Design:</strong> Designed normalized database schemas and optimized query performance</li>
+                    <li><strong>Quality Assurance:</strong> Implemented unit testing and code quality standards</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="experience-header">
+                    <div class="experience-title">
+                        <h4>Software Engineer (GDS Application Development)</h4>
+                        <div class="company">Interglobe Technology Quotient</div>
+                    </div>
+                    <div class="experience-duration">Jun 2011 - Jul 2014</div>
+                </div>
+                <div class="experience-tech">Technologies: C#, .NET Framework, SQL Server, GDS Systems, Travel Domain</div>
+                <ul>
+                    <li><strong>GDS Integration:</strong> Specialized in Global Distribution System (GDS) application development for travel industry</li>
+                    <li><strong>Travel Domain Expertise:</strong> Developed booking engines and reservation systems for airline and travel companies</li>
+                    <li><strong>System Integration:</strong> Integrated multiple GDS providers (Amadeus, Sabre, Galileo) for comprehensive travel solutions</li>
+                    <li><strong>Performance Optimization:</strong> Optimized real-time booking systems for high-volume transaction processing</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Recent Project Portfolio -->
+        <div class="section">
+            <h3>RECENT PROJECT PORTFOLIO (2023-2024)</h3>
+            
+            <div class="project-item">
+                <h4>Enterprise Travel Booking Platform</h4>
+                <div class="role">Lead Architect & Developer</div>
+                <div class="tech-stack">Technologies: .NET core 6/8/9, Python, Azure App Services, SQL Server, Redis, React, SignalR, (Azure and Render)</div>
+                <div class="tech-stack">Scale: 100K+ daily requests, 20+ supplier integrations, 99.9% uptime</div>
+                <ul>
+                    <li><strong>Performance Optimization:</strong> Reduced API response times from 2000ms to 500ms (<strong>75% improvement</strong>) by implementing parallel supplier API calls and Redis caching layer</li>
+                    <li><strong>Cost Engineering:</strong> Achieved <strong>30% Azure infrastructure cost reduction</strong> through auto-scaling policies, reserved instances, and database query optimization</li>
+                    <li><strong>Architecture Design:</strong> Implemented fault-tolerant microservices with circuit breaker patterns, handling supplier API failures gracefully</li>
+                    <li><strong>Scalability Achievement:</strong> Enabled platform to handle <strong>3x traffic growth</strong> during peak booking periods without additional infrastructure</li>
+                </ul>
+            </div>
+
+            <div class="project-item">
+                <h4>Multi-Marketplace Logistics Platform</h4>
+                <div class="role">Senior Full Stack Developer</div>
+                <div class="tech-stack">Technologies: Node.js, Python, React, MySQL, Docker, Azure DevOps, AWS lambda , S3 and EC2, Render</div>
+                <div class="tech-stack">Scale: 8+ marketplace integrations, 10K+ daily product synchronizations</div>
+                <ul>
+                    <li><strong>Concurrency Mastery:</strong> Implemented multithreading solution processing <strong>10,000+ operations simultaneously</strong> with zero data loss</li>
+                    <li><strong>Database Optimization:</strong> Achieved <strong>80% query performance improvement</strong> through advanced indexing and connection pooling</li>
+                    <li><strong>DevOps Excellence:</strong> Built CI/CD pipeline reducing deployment time from <strong>4 hours to 15 minutes</strong></li>
+                    <li><strong>Integration Complexity:</strong> Synchronized inventory across Amazon, Shopify, eBay, and 5+ other marketplaces in real-time</li>
+                    <li><strong>AI-Enhanced Development:</strong> Leveraged ChatGPT and Cursor for rapid prototyping, reducing initial development time by <strong>60%</strong></li>
+                </ul>
+            </div>
+
+            <div class="project-item">
+                <h4> Production Management System (PMS)</h4>
+                <div class="role">Technical Lead</div>
+                <div class="tech-stack">Technologies: Azure Functions, .NET Core 7, Angular 16, SQL Server, Azure Service Bus, Azure Storage</div>
+                <div class="tech-stack">Scale: Complete ERP for leather factories - belts, rexine, shoes, bags manufacturing</div>
+                <ul>
+                    <li><strong>Serverless Architecture:</strong> Designed event-driven production system using Azure Functions for real-time manufacturing process monitoring</li>
+                    <li><strong>Performance Optimization:</strong> Reduced production data processing times by <strong>75%</strong> through Azure Functions auto-scaling and strategic caching</li>
+                    <li><strong>Event-Driven Processing:</strong> Implemented Azure Service Bus for asynchronous production workflow management and equipment status updates</li>
+                    <li><strong>Multi-Tenant Design:</strong> Built scalable multi-tenant architecture supporting unlimited production facility additions without code changes</li>
+                    <li><strong>Infrastructure Automation:</strong> Implemented Infrastructure as Code (IaC) with automated Azure Functions deployments across 3 environments</li>
+                    <li><strong>Security & Access Control:</strong> Implemented role-based access control, audit logging, and secure production data handling</li>
+                    <li><strong>AI-Powered Development:</strong> Utilized Claude and Continue for complex production algorithm optimization and automated code review</li>
+                </ul>
+            </div>
+
+            <div class="project-item">
+                <h4>Financial Analytics Platform</h4>
+                <div class="role">Backend Developer</div>
+                <div class="tech-stack">Technologies: Python, FastAPI, PostgreSQL, Redis, Docker</div>
+                <div class="tech-stack">Scale: Real-time market data processing, portfolio analytics</div>
+                <ul>
+                    <li><strong>Backend Development:</strong> Built high-performance Python APIs using FastAPI for real-time financial data processing</li>
+                    <li><strong>Data Processing:</strong> Implemented efficient algorithms for handling large financial datasets and portfolio calculations</li>
+                    <li><strong>API Integration:</strong> Developed RESTful services for trading data aggregation and third-party financial API integration</li>
+                    <li><strong>Performance Optimization:</strong> Optimized Python code for CPU-intensive calculations achieving <strong>50% faster processing</strong></li>
+                    <li><strong>Caching Strategy:</strong> Implemented Redis caching for frequently accessed market data reducing API response times by <strong>40%</strong></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Education -->
+        <div class="section">
+            <h3>EDUCATION</h3>
+            <div class="education">
+                <h4>Master of Computer Applications (MCA)</h4>
+                <p>Guru Gobind Singh Indraprastha University (GGSIU), Delhi | 2011</p>
+                <br>
+                <h4>Bachelor of Computer Applications (BCA)</h4>
+                <p>Maharishi Dayanand University (MDU), Rohtak | 2005</p>
+                <br>
+                <h4>Professional Development</h4>
+                <p>Continuous learning in cloud technologies, performance optimization, AI-assisted development, and modern software architecture</p>
+            </div>
+        </div>
+
+
+    </div>
+</body>
+</html>
