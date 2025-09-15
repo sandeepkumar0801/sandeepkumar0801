@@ -1,5 +1,5 @@
 # Hello, I'm Sandeep Kumar
-## Senior .NET Developer | Senior Architect | Full-Stack Developer | 15+ Years Experience
+## Full-Stack Developer | Senior .NET Developer | Senior Architect  | 15+ Years Experience
 
 **Contact Information:**
 <div align="left">
