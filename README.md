@@ -1,5 +1,7 @@
+<a name="top"></a>
+
 # Hello, I'm Sandeep Kumar
-## Full-Stack Developer | Senior .NET Developer | Senior Architect  | 15+ Years Experience
+## Full-Stack Developer | Senior .NET Developer | Senior Architect  | 14+ Years Experience
 
 **Contact Information:**
 <div align="left">
@@ -8,16 +10,30 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SandeepKumar0801@outlook.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013b15e14c6fc4818a)
 
-
 </div>
 
 **Transforming business ideas into scalable, enterprise-grade solutions**
 
 ---
 
+## Quick Navigation
+
+| Section | Description |
+|---------|-------------|
+| [Professional Overview](#professional-overview) | Background, experience, and core expertise |
+| [Technology Stack](#technology-stack) | Complete technical skills and tools |
+| [Professional Highlights](#professional-highlights) | Key achievements and metrics |
+| [Project Portfolio](#project-portfolio-overview) | Detailed project showcase |
+| [Technology Analytics](#technology-portfolio--analytics) | Skills distribution and domain expertise |
+| [What Sets Me Apart](#what-sets-me-apart) | Key differentiators |
+| [Why Choose Me?](#why-choose-me) | Value proposition for clients |
+| [Let's Connect](#lets-build-something-amazing-together) | Contact and availability |
+
+---
+
 ## Professional Overview
 
-With over 15 years of hands-on experience in software development and architecture, I specialize in building enterprise-grade applications that serve millions of users. My expertise spans the entire technology stack, from database design to cloud deployment, with a proven track record of delivering mission-critical systems that handle over 100,000 daily requests with 99.9% uptime.
+With over 14 years of hands-on experience in software development and architecture, I specialize in building enterprise-grade applications that serve millions of users. My expertise spans the entire technology stack, from database design to cloud deployment, with a proven track record of delivering mission-critical systems that handle over 100,000 daily requests with 99.9% uptime.
 
 ### Core Expertise
 - **Enterprise Architecture**: Designing scalable, maintainable systems that grow with business needs
@@ -26,6 +42,8 @@ With over 15 years of hands-on experience in software development and architectu
 - **Cloud Solutions**: Deploying and optimizing applications on Azure and AWS platforms
 - **Team Leadership**: Successfully leading development teams of 5-15 developers
 - **Security**: Implementing JWT, OAuth, and certificate-based authentication systems
+
+<p align="right"><a href="#top">Back to Top</a></p>
 
 ---
 
@@ -95,13 +113,15 @@ With over 15 years of hands-on experience in software development and architectu
 
 </div>
 
+<p align="right"><a href="#top">Back to Top</a></p>
+
 ---
 
 ## Professional Highlights
 
 | Metric | Achievement | Impact |
 |--------|-------------|--------|
-| **Experience** | 15+ Years | Senior Full-Stack Architect |
+| **Experience** | 14+ Years | Senior Full-Stack Architect |
 | **Team Leadership** | 5-15 Developers | Multiple Successful Deliveries |
 | **Daily API Requests** | 100K+ Handled | High-Performance Travel Systems |
 | **System Uptime** | 99.9% SLA | Mission-Critical Reliability |
@@ -112,7 +132,9 @@ With over 15 years of hands-on experience in software development and architectu
 | **Global Reach** | 100+ Cities Served | International Travel Platforms |
 | **Architecture** | Microservices & Clean Code | Scalable Enterprise Solutions |
 | **Cloud Deployment** | Azure & Multi-Environment | DevOps & Infrastructure as Code |
-| **Project Portfolio** | 8+ Major Systems | Travel, Logistics, Finance, Railway |
+| **Project Portfolio** | 9+ Major Systems | Travel, Logistics, Finance, Railway, Real Estate |
+
+<p align="right"><a href="#top">Back to Top</a></p>
 
 ---
 
@@ -275,7 +297,7 @@ A complete railway management solution handling operations across multiple stati
 
 ### **AI & Financial Technology**
 
-#### **[Zerodha MCP Personlaized Trading Platform](./zerodha%20mcp)**
+#### **[Zerodha MCP Personalized Trading Platform](./zerodha%20mcp)**
 **AI-powered trading platform with real-time analytics**
 - **Tech Stack**: Python 3.11+, Streamlit, OpenAI GPT-4, Kite Connect API, Plotly
 - **Features**: Real-time portfolio analytics, AI investment recommendations, automated trading
@@ -283,6 +305,50 @@ A complete railway management solution handling operations across multiple stati
 - **Scale**: High-frequency data processing, real-time price streaming, WebSocket connections
 - **Security**: OAuth integration, secure credential management, session persistence
 - **Visualization**: Interactive TradingView charts, custom dashboards, performance metrics
+
+### **Real Estate Technology**
+
+**Comprehensive multi-tenant real estate marketplace platform**
+
+A full-stack real estate platform featuring property listings, user management with role-based access, document verification workflows, and multi-language support.
+
+**Key Features:**
+- Multi-role user management (Admin, Agent, Customer)
+- Property listings with location hierarchy (Country/Province/City)
+- Document upload and verification workflow
+- Multi-language support (English/Spanish)
+- Interactive map integration for property locations
+- OAuth social authentication (Google)
+- Automated email notifications
+
+**Technical Implementation:**
+
+**Backend:**
+- **Framework**: Django 5.2 + Django REST Framework 3.16
+- **Language**: Python 3.13+
+- **Database**: PostgreSQL (production) / SQLite (development)
+- **Authentication**: JWT (djangorestframework-simplejwt) + Djoser
+- **Social Auth**: social-auth-app-django for OAuth integration
+- **Caching**: Redis with django-redis
+- **File Storage**: AWS S3 (production)
+- **WSGI Server**: Gunicorn
+
+**Frontend:**
+- **Framework**: Next.js 15.4 with React 19
+- **Language**: TypeScript
+- **State Management**: Zustand 5.0
+- **Data Fetching**: TanStack React Query 5.85
+- **Forms**: React Hook Form 7.62 + Zod validation
+- **Internationalization**: next-intl 4.3
+- **Maps**: Mapbox GL 3.14 / MapLibre GL 5.6
+- **Styling**: Sass
+- **OAuth**: @react-oauth/google
+
+**Architecture:**
+- RESTful API with versioned endpoints (api/v1/)
+- Multi-app Django structure (users, properties)
+- Separate landing page, user portal, and admin dashboard
+- Automated CI/CD with GitHub Actions
 
 ### **Development Tools & Infrastructure**
 
@@ -292,6 +358,8 @@ A complete railway management solution handling operations across multiple stati
 - **Purpose**: Code analysis, reverse engineering, database management, debugging
 - **Utilities**: Access database engine, MySQL to SQL Server migration tools
 - **Databases**: SQL Server, MySQL, PostgreSQL, SQLite, MongoDB support
+
+<p align="right"><a href="#top">Back to Top</a></p>
 
 ---
 
@@ -306,53 +374,74 @@ A complete railway management solution handling operations across multiple stati
 | **C# / .NET** | 5 Projects | ToursAndActivities, RebookingAtLowerCostEngine, PMS, Railway IPIS, Development Tools | ⭐⭐⭐⭐⭐ Expert |
 | **SQL Server / MySQL** | 5 Projects | ToursAndActivities, RebookingAtLowerCostEngine, PMS, Railway IPIS, Logistics System | ⭐⭐⭐⭐⭐ Expert |
 | **JavaScript/Node.js** | 3 Projects | Logistics System, Lumora Resort, DigispinWeb | ⭐⭐⭐ Intermediate |
-| **React/Next.js** | 2 Projects | Lumora Resort, Logistics System | ⭐⭐⭐ Intermediate |
+| **React/Next.js** | 3 Projects | Lumora Resort, Logistics System, Real Estate Platform | ⭐⭐⭐ Intermediate |
 | **Vue.js/Nuxt.js** | 2 Projects | RebookingAtLowerCostEngine, DigispinWeb Platform | ⭐⭐⭐ Intermediate |
 | **Angular** | 1 Project | Property Management System (PMS) | ⭐⭐⭐ Intermediate |
-| **Python** | 1 Project | Zerodha Trading Platform | ⭐⭐ Basic |
+| **Python / Django** | 2 Projects | Zerodha Trading Platform, Real Estate Platform | ⭐⭐⭐ Intermediate |
+| **PostgreSQL** | 1 Project | Real Estate Platform | ⭐⭐⭐ Intermediate |
 | **Azure** | 5 Projects | ToursAndActivities, RebookingAtLowerCostEngine, PMS, DigispinWeb, Azure IaC | ⭐⭐⭐⭐ Advanced |
-| **AWS** | 2 Projects | Channel Connector (Lambda, S3, EC2), Amazon Selling Partner API Integration | ⭐⭐⭐ Intermediate |
-| **Redis** | 2 Projects | ToursAndActivities, RebookingAtLowerCostEngine | ⭐⭐⭐⭐ Advanced |
+| **AWS** | 3 Projects | Channel Connector (Lambda, S3, EC2), Amazon Selling Partner API, Real Estate Platform | ⭐⭐⭐ Intermediate |
+| **Redis** | 3 Projects | ToursAndActivities, RebookingAtLowerCostEngine, Real Estate Platform | ⭐⭐⭐⭐ Advanced |
 
 ### ** Project Complexity & Scale**
 
-![Enterprise Projects](https://img.shields.io/badge/Enterprise_Projects-8-success?style=for-the-badge&logo=enterprise&logoColor=white)
+![Enterprise Projects](https://img.shields.io/badge/Enterprise_Projects-9-success?style=for-the-badge&logo=enterprise&logoColor=white)
 ![API Integrations](https://img.shields.io/badge/API_Integrations-20+-blue?style=for-the-badge&logo=api&logoColor=white)
 ![Daily Requests](https://img.shields.io/badge/Daily_Requests-100K+-orange?style=for-the-badge&logo=analytics&logoColor=white)
-![Production Systems](https://img.shields.io/badge/Production_Systems-6-red?style=for-the-badge&logo=server&logoColor=white)
+![Production Systems](https://img.shields.io/badge/Production_Systems-7-red?style=for-the-badge&logo=server&logoColor=white)
 
 ### ** Domain Expertise**
 
 | Domain | Proficiency | Projects |
 |--------|-------------|----------|
-| **Travel & Tourism Technology** | ████████████████████ 100% | 4 Projects (ToursAndActivities, RebookingAtLowerCostEngine, PMS, Railway IPIS) |
-| **Enterprise Logistics** | ████████████████████ 100% | 1 Major System (Channel Connector) |
-| **Financial Technology** | ████████████████ 80% | 1 Advanced Platform (Zerodha Trading) |
-| **Railway Management Systems** | ████████████████████ 100% | 1 Comprehensive System (IPIS) |
-| **E-commerce Integrations** | ████████████████████ 100% | 7 API Integrations (Amazon, Shopify, eBay, WooCommerce, Magento, PrestaShop, Mirakl) |
-| **Cloud Infrastructure** | ████████████████████ 100% | 5 Azure Projects (ToursAndActivities, RebookingEngine, PMS, DigispinWeb, Azure IaC) |
-| **Web Development** | ████████████████████ 100% | 3 Projects (Lumora Resort, DigispinWeb, Development Tools) |
+| **Travel & Tourism Technology** | █████████████████░░░ 85% | 4 Projects (ToursAndActivities, RebookingAtLowerCostEngine, PMS, Railway IPIS) |
+| **Enterprise Logistics** | ████████████████░░░░ 80% | 1 Major System (Channel Connector) |
+| **Financial Technology** | ██████████████░░░░░░ 70% | 1 Advanced Platform (Zerodha Trading) |
+| **Real Estate Technology** | ███████████████░░░░░ 75% | 1 Full-Stack Platform (Real Estate Platform) |
+| **Railway Management Systems** | ████████████████░░░░ 80% | 1 Comprehensive System (IPIS) |
+| **E-commerce Integrations** | ██████████████████░░ 90% | 7 API Integrations (Amazon, Shopify, eBay, WooCommerce, Magento, PrestaShop, Mirakl) |
+| **Cloud Infrastructure** | █████████████████░░░ 85% | 5 Azure Projects (ToursAndActivities, RebookingEngine, PMS, DigispinWeb, Azure IaC) |
+| **Web Development** | ████████████████░░░░ 80% | 4 Projects (Lumora Resort, DigispinWeb, Development Tools, Real Estate Platform) |
 
 </div>
+
+<p align="right"><a href="#top">Back to Top</a></p>
 
 ---
 
 ## **What Sets Me Apart**
 
-### **Business-Focused Development**
-I don't just write code—I solve business problems. Every solution I build is designed with **ROI**, **scalability**, and **maintainability** in mind.
-
-### **Proven Track Record**
-- **15+ years** of consistent delivery
-- **50+ successful projects** across various industries
-- **Zero critical production failures** in the last 5 years
-- **100% client satisfaction** rate on Upwork
+### **AI-Driven Development**
+Leveraging AI tools and technologies to accelerate development, enhance code quality, and deliver intelligent solutions with modern AI integrations.
 
 ### **Full-Stack Expertise**
-From **database design** to **user interface**, I handle every aspect of application development with equal proficiency.
+From **database design** to **user interface**, I handle every aspect of application development with equal proficiency—complete top-to-bottom execution.
 
-### **Leadership & Mentoring**
-Successfully led development teams, mentored junior developers, and established coding standards that improved team productivity by 40%.
+### **Cloud Architecture (AWS & Azure)**
+Deep expertise in both **AWS** and **Azure** cloud platforms—designing, deploying, and managing scalable cloud infrastructure and services.
+
+### **Solution Architect**
+Designing end-to-end enterprise solutions with focus on **scalability**, **performance**, and **maintainability**—turning complex business requirements into robust technical architectures.
+
+### **Leadership & Project Management**
+Successfully led development teams of 5-15 developers, mentored junior developers, and managed end-to-end project delivery with Agile methodologies—ensuring on-time, on-budget execution.
+
+<p align="right"><a href="#top">Back to Top</a></p>
+
+---
+
+## **Why Choose Me?**
+
+| Factor | What You Get |
+|--------|--------------|
+| **One-Stop Solution** | No need to hire separate frontend, backend, and DevOps developers—I handle everything from database to deployment |
+| **Production-Ready Code** | Not just working code, but scalable, maintainable, well-documented solutions ready for enterprise use |
+| **Proven Track Record** | Live systems handling 100K+ daily requests with real production experience |
+| **Clear Communication** | Regular updates, transparent progress tracking, and no surprises—you always know where your project stands |
+| **Fast Turnaround** | AI-assisted development workflow means faster delivery without compromising quality |
+| **Business Understanding** | I focus on understanding your requirements and delivering solutions that meet your goals |
+
+<p align="right"><a href="#top">Back to Top</a></p>
 
 ---
 
@@ -373,10 +462,14 @@ I'm passionate about transforming complex business requirements into elegant, sc
 
 <div align="center">
 
+**Timezone: IST (UTC+5:30) | Available: 9:00 AM - 7:00 PM IST | Full-Time / Part-Time**
+
 **Available for freelance projects | SandeepKumar0801@outlook.com**
 
 [![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013b15e14c6fc4818a)
 
-** Ready to discuss your next project? Let's connect!**
+**Ready to discuss your next project? Let's connect!**
+
+<p><a href="#top">Back to Top</a></p>
 
 </div>
