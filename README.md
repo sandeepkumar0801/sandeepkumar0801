@@ -29,6 +29,22 @@
 | [Why Choose Me?](#why-choose-me) | Value proposition for clients |
 | [Let's Connect](#lets-build-something-amazing-together) | Contact and availability |
 
+### Project Portfolio Quick Links
+
+| Project | Tech Stack |
+|---------|------------|
+| [Tours and Activities API](#tours-and-activities-api) | .NET Core, SQL Server, Redis, Azure, Service Bus, Logic Apps |
+| [RebookingAtLowerCostEngine](#rebookingatlowercostengine) | .NET Core, SQL Server, MongoDB, Redis, Azure |
+| [Property Management System](#property-management-system-pms) | .NET Core, Angular, SQL Server, Azure |
+| [Lumora Resort Platform](#lumora-resort-platform) | Next.js, React, TypeScript, Tailwind CSS |
+| [Railway Management System](#railway-management-system-ipis) | .NET Framework, SQLite, Web API |
+| [Logistics Management System](#logistics-management-system-channel-connector) | Node.js, React, MySQL, AWS, Kafka, SQS |
+| [DigispinWeb Platform](#digispinweb-platform) | Vue.js, Nuxt.js, TypeScript, Azure |
+| [Azure Pipeline Infrastructure](#azure-pipeline-infrastructure-iac) | Azure DevOps, YAML, ARM Templates |
+| [Zerodha Trading Platform](#zerodha-mcp-personalized-trading-platform) | Python, Streamlit, OpenAI GPT-4 |
+| [Real Estate Platform](#real-estate-platform) | Django, Next.js, React, PostgreSQL, Redis, AWS |
+| [Development Tools Suite](#development-tools-suite) | .NET, SQL Server, MySQL, PostgreSQL |
+
 ---
 
 ## Professional Overview
@@ -105,6 +121,15 @@ With over 14 years of hands-on experience in software development and architectu
 ![BlueDart](https://img.shields.io/badge/BlueDart_API-0066FF?style=for-the-badge&logo=bluedart&logoColor=white)
 ![DTDC](https://img.shields.io/badge/DTDC_API-FF6B35?style=for-the-badge&logo=dtdc&logoColor=white)
 
+### **Event-Driven & Messaging**
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0052CC?style=for-the-badge&logo=eventbrite&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ### **AI & Analytics**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -132,7 +157,7 @@ With over 14 years of hands-on experience in software development and architectu
 | **Global Reach** | 100+ Cities Served | International Travel Platforms |
 | **Architecture** | Microservices & Clean Code | Scalable Enterprise Solutions |
 | **Cloud Deployment** | Azure & Multi-Environment | DevOps & Infrastructure as Code |
-| **Project Portfolio** | 9+ Major Systems | Travel, Logistics, Finance, Railway, Real Estate |
+| **Project Portfolio** | 11+ Major Systems | Travel, Logistics, Finance, Railway, Real Estate |
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -142,8 +167,16 @@ With over 14 years of hands-on experience in software development and architectu
 
 ### Travel & Tourism Technology
 
-#### **[Tours and Activities API](./ToursAndActivities)**
+#### **Tours and Activities API**
 **Enterprise booking API serving over 100,000 daily requests**
+
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Service_Bus-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Logic Apps](https://img.shields.io/badge/Logic_Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 This comprehensive travel booking system powers multiple production websites including www.hop-on-hop-off-bus.com. Built with .NET 6, it integrates with over 20 major travel suppliers including Tiqets, Bokun, BigBus, HotelBeds, and GetYourGuide.
 
@@ -155,16 +188,28 @@ This comprehensive travel booking system powers multiple production websites inc
 - Comprehensive caching layer using Redis
 - Clean architecture with extensive testing
 
+**Event-Driven Architecture:**
+- Azure Service Bus for reliable message queuing and pub/sub messaging
+- Azure Logic Apps for workflow automation and system integrations
+- Asynchronous booking confirmations and notifications
+- Decoupled microservices communication
+
 **Technical Implementation:**
-- .NET Core backend 
+- .NET Core backend
 - RESTful APIs with Swagger documentation
 - JWT authentication and rate limiting
 - SQL Server for data persistence
 - Azure cloud deployment
 - Entity Framework Core for data access
 
-#### **[RebookingAtLowerCostEngine](./RebookingAtLowerCostEngine)**
+#### **RebookingAtLowerCostEngine**
 **Advanced hotel pricing optimization and automated rebooking system**
+
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 This intelligent system processes over 10,000 hotel reservations daily, continuously monitoring prices across multiple suppliers to automatically rebook customers at lower rates, achieving 15-30% cost savings.
 
@@ -183,8 +228,14 @@ This intelligent system processes over 10,000 hotel reservations daily, continuo
 - Integration with multiple hotel booking APIs
 - Comprehensive notification systems
 
-#### **[Property Management System (PMS)](./PMS)**
+#### **Property Management System (PMS)**
 **Comprehensive multi-tenant property and facility management platform**
+
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 An enterprise-grade system supporting over 50 properties and 1000+ facilities with complete management capabilities.
 
@@ -202,8 +253,13 @@ An enterprise-grade system supporting over 50 properties and 1000+ facilities wi
 - Azure DevOps for CI/CD
 - Multiple deployment environments (Belt, Karamat, Leather)
 
-#### **[Lumora Resort Platform](./lumora)**
+#### **Lumora Resort Platform**
 **Luxury resort and hospitality website with modern design**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 A high-performance resort website featuring modern design principles and achieving 95+ Lighthouse performance scores.
 
@@ -222,8 +278,13 @@ A high-performance resort website featuring modern design principles and achievi
 - Static site generation for performance
 - Render.com deployment with CDN
 
-#### **[Railway Management System (IPIS)](./Rail)**
+#### **Railway Management System (IPIS)**
 **Comprehensive railway operations and passenger information system**
+
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 A complete railway management solution handling operations across multiple stations with real-time passenger information and multi-language announcements.
 
@@ -244,13 +305,28 @@ A complete railway management solution handling operations across multiple stati
 
 ### **Enterprise & Logistics Solutions**
 
-#### **[Logistics Management System (Channel Connector)](./logistics)**
+#### **Logistics Management System (Channel Connector)**
 **Enterprise multi-marketplace synchronization and logistics platform**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=flat-square&logo=amazon-sqs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
 - **Backend**: Node.js, Express.js, MySQL, JWT authentication, comprehensive Swagger API documentation
 - **Frontend**: React 18, Vite, Tailwind CSS, responsive design with real-time updates
 - **Architecture**: Microservices architecture with separate frontend/backend, automated cron jobs, error management
 
-**🔗 Marketplace & Shipping API Integrations:**
+**Event-Driven Architecture:**
+- Apache Kafka for high-throughput real-time event streaming
+- AWS SQS for reliable message queuing across services
+- Event-driven inventory sync and order processing
+- Real-time marketplace updates with pub/sub patterns
+
+**Marketplace & Shipping API Integrations:**
 
 **E-commerce Platforms:**
 - **[Amazon SP-API](https://developer-docs.amazon.com/sp-api)**: Product sync, inventory management, order processing, price updates
@@ -281,15 +357,27 @@ A complete railway management solution handling operations across multiple stati
 - **Comprehensive API documentation** with 150+ endpoints
 - **Advanced error handling** with retry logic and alert management
 
-#### **[DigispinWeb Platform](./DigispinWeb)**
+#### **DigispinWeb Platform**
 **Modern web application with Vue.js ecosystem**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
 - **Tech Stack**: Vue.js 3, Nuxt.js 3, TypeScript, Tailwind CSS, Vite
 - **Features**: Server-side rendering, responsive design, modern UI/UX, PWA capabilities
 - **Deployment**: Azure Static Web Apps with automated CI/CD pipelines
 - **Performance**: Optimized build process, lazy loading, and efficient asset management
 
-#### **[Azure Pipeline Infrastructure (IaC)](./AzurePipeline-IaC)**
+#### **Azure Pipeline Infrastructure (IaC)**
 **Infrastructure as Code for multiple production environments**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Templates-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
 - **Tech Stack**: Azure DevOps, YAML pipelines, ARM templates, PowerShell scripts
 - **Environments**: Multiple PMS environments (Belt, Karamat, Leather) with environment-specific configurations
 - **Features**: Automated deployments, database migrations, frontend builds, rollback capabilities
@@ -297,8 +385,14 @@ A complete railway management solution handling operations across multiple stati
 
 ### **AI & Financial Technology**
 
-#### **[Zerodha MCP Personalized Trading Platform](./zerodha%20mcp)**
+#### **Zerodha MCP Personalized Trading Platform**
 **AI-powered trading platform with real-time analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
 - **Tech Stack**: Python 3.11+, Streamlit, OpenAI GPT-4, Kite Connect API, Plotly
 - **Features**: Real-time portfolio analytics, AI investment recommendations, automated trading
 - **AI Integration**: OpenAI GPT-4 for market analysis, sentiment analysis, portfolio optimization
@@ -306,9 +400,16 @@ A complete railway management solution handling operations across multiple stati
 - **Security**: OAuth integration, secure credential management, session persistence
 - **Visualization**: Interactive TradingView charts, custom dashboards, performance metrics
 
-### **Real Estate Technology**
-
+#### **Real Estate Platform**
 **Comprehensive multi-tenant real estate marketplace platform**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 A full-stack real estate platform featuring property listings, user management with role-based access, document verification workflows, and multi-language support.
 
@@ -352,8 +453,16 @@ A full-stack real estate platform featuring property listings, user management w
 
 ### **Development Tools & Infrastructure**
 
-#### **[Development Tools Suite](./Tools)**
+#### **Development Tools Suite**
 **Comprehensive development and debugging toolkit**
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 - **Tools**: JetBrains dotPeek, dnSpy, Database engines, Migration utilities
 - **Purpose**: Code analysis, reverse engineering, database management, debugging
 - **Utilities**: Access database engine, MySQL to SQL Server migration tools
@@ -367,7 +476,7 @@ A full-stack real estate platform featuring property listings, user management w
 
 <div align="center">
 
-### ** Project Technology Distribution**
+### **Project Technology Distribution**
 
 | Technology | Projects | Repository/Project Names | Expertise Level |
 |------------|----------|--------------------------|-----------------|
@@ -382,15 +491,16 @@ A full-stack real estate platform featuring property listings, user management w
 | **Azure** | 5 Projects | ToursAndActivities, RebookingAtLowerCostEngine, PMS, DigispinWeb, Azure IaC | ⭐⭐⭐⭐ Advanced |
 | **AWS** | 3 Projects | Channel Connector (Lambda, S3, EC2), Amazon Selling Partner API, Real Estate Platform | ⭐⭐⭐ Intermediate |
 | **Redis** | 3 Projects | ToursAndActivities, RebookingAtLowerCostEngine, Real Estate Platform | ⭐⭐⭐⭐ Advanced |
+| **Event-Driven & Messaging** | 2 Projects | ToursAndActivities (Service Bus, Logic Apps), Logistics System (Kafka, SQS) | ⭐⭐⭐⭐ Advanced |
 
-### ** Project Complexity & Scale**
+### **Project Complexity & Scale**
 
-![Enterprise Projects](https://img.shields.io/badge/Enterprise_Projects-9-success?style=for-the-badge&logo=enterprise&logoColor=white)
+![Enterprise Projects](https://img.shields.io/badge/Enterprise_Projects-11-success?style=for-the-badge&logo=enterprise&logoColor=white)
 ![API Integrations](https://img.shields.io/badge/API_Integrations-20+-blue?style=for-the-badge&logo=api&logoColor=white)
 ![Daily Requests](https://img.shields.io/badge/Daily_Requests-100K+-orange?style=for-the-badge&logo=analytics&logoColor=white)
-![Production Systems](https://img.shields.io/badge/Production_Systems-7-red?style=for-the-badge&logo=server&logoColor=white)
+![Production Systems](https://img.shields.io/badge/Production_Systems-9-red?style=for-the-badge&logo=server&logoColor=white)
 
-### ** Domain Expertise**
+### **Domain Expertise**
 
 | Domain | Proficiency | Projects |
 |--------|-------------|----------|
