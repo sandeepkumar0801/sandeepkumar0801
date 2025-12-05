@@ -1,0 +1,60 @@
+Full Stack Developer | React, Vue, Angular, Node, Python, .Net core
+Specializes in Full Stack Development
+$40.00/hr
+I am a Full Stack Developer with 14+ years of experience delivering scalable, high-performance web applications and enterprise platforms. I specialize in React.js, Next.js, Angular (v12+), Node.js, JavaScript, TypeScript, and RESTful APIs, with proven expertise in both frontend and backend development.
+
+I’ve optimized enterprise platforms to achieve 70–82% faster APIs,
+10M+ daily event processing, 99.99% uptime,
+12–28% cloud cost savings on Azure/AWS.
+Delivered AI automations saving 300–500 hours/month, built real-time dashboards handling 10K–50K daily logistics events,
+Led migration of large .NET Framework systems to .NET 6 with zero downtime.
+
+I have built and deployed multi-tenant SaaS applications, real-time dashboards, and enterprise integrations using Next.js, React, Angular, Node.js, Express, MySQL, MongoDB, Azure, and AWS. My approach combines clean code, CI/CD, and Agile practices to ensure on-time, bug-free delivery.
+
+Core Skills & Keywords
+
+Frontend: React.js, Next.js, Angular 12, AngularJS, Redux, RxJS, NgRx, HTML5, CSS3, SCSS, Bootstrap, Material UI
+
+Backend: Node.js, Express.js, REST APIs, GraphQL, C#, .NET Core, MVC, Microservices
+
+Databases: MySQL, MongoDB, SQL Server, Azure SQL, Cosmos DB
+
+Cloud & DevOps: Azure (Functions, AKS, App Services, DevOps Pipelines), AWS (Lambda, EC2, S3), Docker, Kubernetes, GitHub Actions
+
+Other Expertise: JWT Authentication, OAuth, Redis, WebSockets, API Integrations (Shopify, Amazon SP API, Payment Gateways), ChatGPT/LLM integrations
+
+Agile Tools: Jira, Scrum, Kanban, CI/CD
+
+Selected Projects
+
+Shipment Management Dashboard – Angular 12 + Node.js + Cosmos DB
+Built enterprise-grade logistics dashboard with real-time shipment tracking, SLA monitoring, and role-based access. Improved delay detection by 35%.
+
+REVA Admin Panel – Angular 12 + Node.js + MySQL
+Developed secure admin system with JWT Auth, Google SSO, and advanced data tables for financial and client management.
+
+ERP Virtual Assistant Bot – React + Next.js + Node.js + OpenAI
+Integrated AI chatbot to provide ERP insights (sales, inventory, HR) by querying structured/unstructured data.
+
+Amazon Seller Central Integration – Node.js + MySQL + AWS
+Built APIs for order sync, inventory tracking, and shipment updates from Amazon SP API to client systems.
+
+Why Hire Me?
+
+✔ Full Stack Expertise – End-to-end ownership from UI/UX to backend APIs & cloud deployment
+✔ Next.js & React Specialist – SEO-friendly, high-performance web apps
+✔ Scalable Architecture – Microservices, CI/CD, and clean code practices
+✔ Strong API Integrations – Shopify, Amazon SP API, Payment gateways, custom APIs
+✔ Enterprise Experience – Delivered large-scale platforms in Travel Tech, Logistics, E-commerce, and SaaS
+✔ Reliable & Communicative – I ensure clarity, timely updates, and on-time delivery
+
+
+
+
+
+
+
+
+
+
+Full Stack Developer, React Developer, Next.js Developer, Angular Developer, Node.js Developer, JavaScript Developer, TypeScript Developer, REST API Developer, MERN Developer, MEAN Developer, API Integration, AWS, Azure, MongoDB, MySQL, SQL Server, Docker, Kubernetes, SaaS Development, Web Application Developer.

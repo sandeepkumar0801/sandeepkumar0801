@@ -41,7 +41,7 @@
 | [Logistics Management System](#logistics-management-system-channel-connector) | Node.js, React, MySQL, AWS, Kafka, SQS |
 | [DigispinWeb Platform](#digispinweb-platform) | Vue.js, Nuxt.js, TypeScript, Azure |
 | [Azure Pipeline Infrastructure](#azure-pipeline-infrastructure-iac) | Azure DevOps, YAML, ARM Templates |
-| [Zerodha Trading Platform](#zerodha-mcp-personalized-trading-platform) | Python, Streamlit, OpenAI GPT-4 |
+| [AI Portfolio Analyzer and Trading](#ai-portfolio-analyzer-and-trading) | Python, Streamlit, OpenAI GPT-4, Zerodha Kite, TradingView |
 | [Real Estate Platform](#real-estate-platform) | Django, Next.js, React, PostgreSQL, Redis, AWS |
 | [Development Tools Suite](#development-tools-suite) | .NET, SQL Server, MySQL, PostgreSQL |
 
@@ -385,20 +385,22 @@ A complete railway management solution handling operations across multiple stati
 
 ### **AI & Financial Technology**
 
-#### **Zerodha MCP Personalized Trading Platform**
-**AI-powered trading platform with real-time analytics**
+#### **[AI Portfolio Analyzer and Trading](https://github.com/sandeepkumar0801/Ai-portfolio-analyzer-and-trading)**
+**Production-ready trading dashboard with AI-powered portfolio analytics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Zerodha Kite](https://img.shields.io/badge/Zerodha_Kite-387ED1?style=flat-square&logo=zerodha&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView-131622?style=flat-square&logo=tradingview&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- **Tech Stack**: Python 3.11+, Streamlit, OpenAI GPT-4, Kite Connect API, Plotly
-- **Features**: Real-time portfolio analytics, AI investment recommendations, automated trading
-- **AI Integration**: OpenAI GPT-4 for market analysis, sentiment analysis, portfolio optimization
-- **Scale**: High-frequency data processing, real-time price streaming, WebSocket connections
-- **Security**: OAuth integration, secure credential management, session persistence
-- **Visualization**: Interactive TradingView charts, custom dashboards, performance metrics
+- **Tech Stack**: Python 3.11+, Streamlit, OpenAI GPT-4, Zerodha Kite Connect API, TradingView, MySQL
+- **Features**: Real-time portfolio analytics, AI investment recommendations, professional trading interface
+- **AI Integration**: GPT-4 powered analysis, portfolio optimization, risk assessment, market sentiment
+- **Trading**: TradingView charts with 100+ indicators, real-time WebSocket streaming, quick buy/sell actions
+- **Security**: Zerodha OAuth 2.0 integration, encrypted credentials, session persistence
+- **Export**: Professional PDF reports, Excel exports, automated report scheduling
 
 #### **Real Estate Platform**
 **Comprehensive multi-tenant real estate marketplace platform**

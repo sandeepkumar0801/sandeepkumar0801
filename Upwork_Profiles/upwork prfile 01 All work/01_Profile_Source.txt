@@ -1,0 +1,57 @@
+.NET Developer |.NET Core| DOTNET Core| C# | API Backend Expert
+$25.00/hr
+
+I’m a Senior .NET Developer with over 12 years of experience building secure, scalable web applications, RESTful APIs, and enterprise platforms using ASP.NET Core (.NET Core, ASP.NET, .NET Framework, C#, Azure, and AWS.
+
+I’ve optimised enterprise platforms to achieve 70–82% faster APIs,
+10M+ daily event processing, 99.99% uptime,
+12–28% cloud cost savings on Azure/AWS.
+Delivered AI automations saving 300–500 hours/month, built real-time dashboards handling 10K–50K daily logistics events,
+Led migration of large .NET Framework systems to .NET 6 with zero downtime.
+
+I’ve led development teams and architected complex systems for companies such as Isango (now part of Hotelbeds), Condeco Software, and InterGlobe Technologies, delivering production-ready software across multiple industries.
+
+I have helped enterprise clients across Travel, SaaS, Logistics, and Finance achieve measurable engineering outcomes — including:
+
+70–80% faster API performance using .NET Core optimisations, caching, and async architecture
+10M+ daily API events processed across large microservices ecosystems
+99.9%–99.99% uptime on Azure/AWS deployments with hardened CI/CD pipelines
+12–25% cloud cost savings through architecture tuning and automation
+300–500 hours/month saved using OpenAI/Azure Cognitive Service automations
+Real-time dashboards handling 10K–50K logistics events/day
+40% faster feature delivery through clean architecture & DevOps improvements
+0-downtime migration from .NET Framework to .NET 6/7 for enterprise systems
+________________________________________
+Core Expertise
+• Backend & API Development: ASP.NET Core Web API, microservices, clean architecture
+• Cloud-Native Deployments: Azure Functions, App Services, AWS Lambda, API Gateway, containerised CI/CD
+• AI Integration: OpenAI, Python ML APIs, Azure Cognitive Services
+• Frontend & Real-Time Systems: Blazor Server/WASM, SignalR, responsive UI with live updates
+• Databases: SQL Server optimisation, PostgreSQL, MongoDB, Cosmos DB, Entity Framework Core
+• DevOps & Automation: Azure DevOps, GitHub Actions, Docker, Kubernetes
+• Security: OAuth2, JWT, IdentityServer, Azure AD, multi-tenant RBAC platforms
+• Legacy Modernisation: .NET Framework to .NET 6/7 migrations, performance optimisation
+________________________________________
+Client Results
+• Reduced API latency by 70% through backend optimisation and Redis caching
+• Delivered a fraud detection API using Python machine learning models and AWS Lambda
+• Migrated a large-scale ERP system from .NET Framework to .NET 6 with Azure deployment
+• Integrated OpenAI-powered document summarisation into an enterprise CMS
+• Built a real-time logistics dashboard using Blazor and SignalR
+• Achieved 12% infrastructure cost savings by automating QA workflows with Azure Cognitive Services
+________________________________________
+Industries Served
+Enterprise Software, SaaS Platforms, Financial Services, Travel & Hospitality, Logistics, AI-Powered Applications
+________________________________________
+Approach
+I focus on delivering clean, maintainable architecture, production-ready code, comprehensive testing, detailed documentation, and responsive communication. Whether working independently or as part of a team, I can take projects from idea to deployment and beyond.
+________________________________________
+Tech Stack Summary
+Languages/Frameworks: C#, ASP.NET Core, .NET 6/7, Razor Pages, Blazor
+Frontend: Blazor Server/WASM, React, Angular, JavaScript, TypeScript
+Cloud Platforms: Microsoft Azure, Amazon AWS
+Databases: SQL Server, PostgreSQL, MongoDB, Azure Cosmos DB
+AI/ML Integration: OpenAI APIs, Python, ML.NET, Azure Cognitive Services
+DevOps: Azure DevOps, GitHub Actions, Docker, Kubernetes
+Real-Time & Messaging: SignalR, RabbitMQ, Azure Service Bus
+Authentication & Security: OAuth2, JWT, Identity Server, Azure AD
