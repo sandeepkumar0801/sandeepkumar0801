@@ -1,0 +1,29 @@
+I am a Full Stack Developer (Full Stack Engineer / Full-Stack Engineer) with 14+ years of experience delivering scalable, high-performance web applications, enterprise platforms, and multi-tenant SaaS solutions. I specialize in modern JavaScript full-stack development using React.js, Next.js, Node.js, Express.js, TypeScript, JavaScript, and RESTful APIs, with proven expertise in both frontend and backend development across Azure and AWS.
+
+Key Achievements: Delivered 75% faster REST APIs (2000ms to 500ms) through Node.js and Express.js optimizations. Processed 100K+ daily API requests and 10M+ daily events with 99.9% uptime using Node.js microservices. Achieved 99.9–99.99% uptime on Azure/AWS, reducing costs by 25-30%.
+
+PROJECT EXPERIENCE
+
+Logistics Management System – Full Stack Developer / Node Developer / React Developer / API Integration Specialist
+Tech: Node.js, Express.js, React 18, TypeScript, MySQL, AWS Lambda, AWS Step Functions, Kafka, SQS, SNS, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Developed enterprise multi-marketplace synchronization platform supporting 100+ clients with real-time sync across 8+ marketplaces using Node.js microservices architecture. Implemented event-driven architecture with Kafka and AWS SQS/SNS. Used AWS Step Functions for workflow orchestration. Built React 18 frontend with TypeScript. Integrated Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl APIs. Deployed on AWS.
+
+Real Estate Platform – Full Stack Developer / React Developer / Next.js Developer / Node Developer
+Tech: Next.js 15.4, React 19, TypeScript, Node.js, Express.js, PostgreSQL, Redis, AWS Lambda, AWS Step Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Built comprehensive multi-tenant real estate marketplace platform with Next.js 15.4 frontend and React 19 with TypeScript. Developed Node.js backend with Express.js microservices architecture. Implemented event-driven architecture with AWS SQS and AWS Step Functions for workflow orchestration. Features include multi-role user management, property listings with location hierarchy, Mapbox GL map integration.
+
+SaaS Analytics Dashboard – Full Stack Developer / React Developer / Next.js Developer / Node Developer
+Tech: Next.js 14, React 18, TypeScript, Node.js, Express.js, PostgreSQL, Redis, AWS Lambda, AWS Step Functions, API Gateway, Docker, Kubernetes, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Built enterprise SaaS analytics dashboard processing 10M+ daily events with real-time data visualization using Node.js microservices architecture. Implemented event-driven architecture with AWS SQS and AWS Step Functions for workflow orchestration. Developed React 18 frontend with TypeScript and Node.js backend with Express.js. Deployed on AWS with Lambda functions, API Gateway, Docker, and Kubernetes.
+
+E-commerce Integration Platform – Full Stack Developer / Backend Developer / .NET Developer / React Developer
+Tech: .NET Core 8, ASP.NET Core Web API, C#, Entity Framework Core, SQL Server, Redis, React, TypeScript, Azure Durable Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Developed enterprise E-commerce integration platform processing 10,000+ products and orders daily with 150+ API endpoints using .NET Core microservices architecture. Implemented event-driven architecture with Azure Service Bus and Azure Durable Functions for workflow orchestration. Integrated 20+ marketplace APIs (Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl). Deployed on Azure and AWS.
+
+AI-Powered Document Processing System – Full Stack Developer / React Developer / Python Developer / TypeScript Developer
+Tech: Django, Next.js 15.4, React 19, TypeScript, Python, FastAPI, PostgreSQL, Redis, AWS Lambda, AWS Step Functions, OpenAI GPT-4, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Built enterprise AI-powered document processing system processing 50,000+ documents daily with 99.5% accuracy using Python microservices architecture. Implemented event-driven architecture with AWS SQS and AWS Step Functions for workflow orchestration. Developed Next.js 15.4 frontend with React 19 and TypeScript. Integrated OpenAI GPT-4 and LangChain for intelligent document extraction.
+
+TECH STACK: React.js, Next.js, Node.js, Express.js, Nest.js, TypeScript, JavaScript, Vue.js, PostgreSQL, MySQL, MongoDB, Redis, AWS Lambda, AWS Step Functions, API Gateway, SQS, SNS, Azure Functions, Azure Durable Functions, Docker, Kubernetes, GitHub Actions, OAuth2, JWT, SignalR, RabbitMQ, Kafka, REST APIs, GraphQL, Amazon SP-API, Shopify API, WooCommerce API, Tailwind CSS, GSAP, Vite
+
+INDUSTRIES: Enterprise Software, SaaS Platforms, E-commerce, Financial Services, FinTech, Travel & Hospitality, Logistics, Real Estate, AI-Powered Applications

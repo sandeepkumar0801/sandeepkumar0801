@@ -1,0 +1,29 @@
+I am a Full Stack Developer and .NET Developer with 14+ years of experience architecting enterprise-scale systems, building scalable web applications, high-performance REST APIs, microservices architectures, and AI-powered automation solutions using C#, ASP.NET Core, .NET Core 6/7/8, Entity Framework Core, React, TypeScript, Azure, and AWS. Proven track record of reducing infrastructure costs by 25-30% while improving performance by 60-75%.
+
+Key Achievements: As a .NET Developer, I delivered 75% faster REST APIs (2000ms to 500ms) using .NET Core optimizations. Processed 100K+ daily API requests and 10M+ daily events with 99.9% uptime. Achieved 99.9–99.99% uptime on Azure/AWS, reducing costs by 25-30%.
+
+PROJECT EXPERIENCE
+
+Tours and Activities API – Full Stack Developer / Backend Developer / .NET Developer / API Developer
+Tech: .NET Core 7, ASP.NET Core Web API, C#, Entity Framework Core, SQL Server, Redis, React, TypeScript, Azure Service Bus, Azure Durable Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Built enterprise booking API serving 100,000+ daily requests with 99.9% uptime using .NET Core microservices architecture. Implemented event-driven architecture with Azure Service Bus and Azure Durable Functions for workflow orchestration. Achieved 75% API response time improvement (2000ms to 500ms). Developed React frontend with TypeScript.
+
+RebookingAtLowerCostEngine – Full Stack Developer / Backend Developer / .NET Developer / API Developer
+Tech: .NET Core 8, ASP.NET Core Web API, C#, Entity Framework Core, MongoDB, Redis, React, TypeScript, Azure Batch, Azure Durable Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Developed AI-powered cost-optimization engine processing 10,000+ hotel reservations daily, achieving 15-30% cost savings through automated rebooking. Built scalable .NET Core microservices architecture with event-driven design using Azure Service Bus and Azure Durable Functions for workflow orchestration. Integrated OpenAI GPT-4 and Python ML APIs for intelligent rebooking recommendations.
+
+E-commerce Integration Platform – Full Stack Developer / Backend Developer / .NET Developer / API Developer
+Tech: .NET Core 8, ASP.NET Core Web API, C#, Entity Framework Core, SQL Server, Redis, React, TypeScript, Azure Durable Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Developed enterprise E-commerce integration platform processing 10,000+ products and orders daily with 150+ API endpoints using .NET Core microservices architecture. Implemented event-driven architecture with Azure Service Bus and Azure Durable Functions for workflow orchestration. Integrated 20+ marketplace APIs (Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl).
+
+Logistics Management System – Full Stack Developer / Node Developer / React Developer / API Integration Specialist
+Tech: Node.js, Express.js, React 18, TypeScript, MySQL, AWS Lambda, AWS Step Functions, Kafka, SQS, SNS, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Developed enterprise multi-marketplace synchronization platform supporting 100+ clients with real-time sync across 8+ marketplaces using Node.js microservices architecture. Implemented event-driven architecture with Kafka and AWS SQS/SNS. Used AWS Step Functions for workflow orchestration. Built React 18 frontend with TypeScript. Integrated Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl APIs. Deployed on AWS.
+
+Real Estate Platform – Full Stack Developer / React Developer / Python Developer / TypeScript Developer
+Tech: Django, Next.js 15.4, React 19, TypeScript, Python, PostgreSQL, Redis, AWS Lambda, AWS Step Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Built comprehensive multi-tenant real estate marketplace platform with Django backend microservices and Next.js 15.4 frontend with React 19 and TypeScript. Implemented event-driven architecture with AWS SQS and AWS Step Functions for workflow orchestration. Features include multi-role user management, property listings with location hierarchy, Mapbox GL map integration. Implemented PostgreSQL database with Redis caching on AWS.
+
+TECH STACK: C#, .NET Core 6/7/8, ASP.NET Core, ASP.NET Core Web API, Entity Framework Core, LINQ, Microservices Architecture, Clean Architecture, CQRS, Domain-Driven Design, React, TypeScript, JavaScript, SQL Server, PostgreSQL, MongoDB, Redis, Azure Functions, Azure Durable Functions, Azure Service Bus, AWS Lambda, AWS Step Functions, API Gateway, Docker, Kubernetes, GitHub Actions, OAuth2, JWT, SignalR, RabbitMQ, Kafka, REST APIs, gRPC, GraphQL, Amazon SP-API, Shopify API, WooCommerce API
+
+INDUSTRIES: Enterprise Software, SaaS Platforms, E-commerce, Financial Services, FinTech, Travel & Hospitality, Logistics, Real Estate

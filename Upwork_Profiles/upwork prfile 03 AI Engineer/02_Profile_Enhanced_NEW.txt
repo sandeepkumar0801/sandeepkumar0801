@@ -1,0 +1,29 @@
+I am an AI Engineer (AI Developer / Machine Learning Engineer / ML Engineer / Python Engineer) with 14+ years of experience building AI-powered applications, machine learning solutions, deep learning models, LLM integrations, NLP systems, and intelligent automation workflows. I specialize in Python, AI/ML, Large Language Models (LLMs), Natural Language Processing (NLP), OpenAI GPT-4, scikit-learn, pandas, numpy, TensorFlow, PyTorch, LangChain, Hugging Face, Django, Flask, FastAPI, and cloud platforms (Azure, AWS).
+
+Key Achievements: As an AI Engineer and Python Engineer, I developed AI-powered cost-optimization engine processing 10,000+ hotel reservations daily, achieving 15-30% cost savings. Built AI-powered trading dashboard with machine learning-powered portfolio analytics and deep learning models for market prediction. Integrated OpenAI GPT-4 and LLMs into production applications serving 100K+ daily requests with 99.9% uptime.
+
+PROJECT EXPERIENCE
+
+AI-Powered Cost Optimization Engine – AI Engineer / Python Engineer / Machine Learning Engineer / AI Developer
+Tech: Python, Django, FastAPI, scikit-learn, pandas, numpy, OpenAI GPT-4, LangChain, MongoDB, Redis, Azure Durable Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Developed AI-powered cost-optimization engine processing 10,000+ hotel reservations daily, achieving 15-30% cost savings through automated rebooking. Built scalable Python microservices architecture with FastAPI and Django. Implemented event-driven architecture with Azure Service Bus and Azure Durable Functions for workflow orchestration.
+
+AI-Powered Document Processing System – AI Engineer / Python Engineer / Machine Learning Engineer / NLP Engineer
+Tech: Python, FastAPI, OpenAI GPT-4, LangChain, scikit-learn, pandas, numpy, TensorFlow, MongoDB, Redis, AWS Step Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration (AWS Step Functions)
+Built enterprise AI-powered document processing system processing 50,000+ documents daily with 99.5% accuracy using Python microservices architecture. Implemented event-driven architecture with AWS SQS and AWS Step Functions for workflow orchestration. Integrated OpenAI GPT-4 and LangChain for intelligent document extraction.
+
+AI Portfolio Analyzer and Trading Platform – AI Engineer / Python Engineer / Machine Learning Engineer / Deep Learning Engineer
+Tech: Python, Streamlit, OpenAI GPT-4, scikit-learn, pandas, numpy, TensorFlow, Zerodha Kite Connect API, TradingView, MySQL, AWS Step Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Implemented production-ready trading dashboard with AI-powered portfolio analytics and deep learning models for market prediction using Python microservices architecture. Implemented event-driven architecture with AWS SQS and AWS Step Functions for workflow orchestration. Built Python-based Streamlit application with OpenAI GPT-4, scikit-learn, and TensorFlow.
+
+E-commerce Integration Platform – Full Stack Developer / Backend Developer / .NET Developer / React Developer
+Tech: .NET Core 8, ASP.NET Core Web API, C#, Entity Framework Core, SQL Server, Redis, React, TypeScript, Azure Durable Functions, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Developed enterprise E-commerce integration platform processing 10,000+ products and orders daily using .NET Core microservices architecture. Implemented event-driven architecture with Azure Service Bus and Azure Durable Functions for workflow orchestration. Integrated 20+ marketplace APIs (Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl).
+
+Logistics Management System – Full Stack Developer / Node Developer / React Developer / API Integration Specialist
+Tech: Node.js, Express.js, React 18, TypeScript, MySQL, AWS Step Functions, Kafka, SQS, SNS, Microservices, Event-Driven Architecture, AWS, Azure, Workflow Orchestration
+Developed enterprise multi-marketplace synchronization platform supporting 100+ clients with real-time sync across 8+ marketplaces using Node.js microservices architecture. Implemented event-driven architecture with Kafka and AWS SQS/SNS. Used AWS Step Functions for workflow orchestration. Built React 18 frontend with TypeScript.
+
+TECH STACK: Python, AI/ML, Machine Learning, Deep Learning, LLM Integration, NLP, scikit-learn, pandas, numpy, TensorFlow, PyTorch, OpenAI GPT-4, LangChain, Hugging Face, Django, Flask, FastAPI, MongoDB, MySQL, PostgreSQL, Redis, Node.js, Express.js, React.js, Next.js, TypeScript, JavaScript, Azure Functions, Azure Durable Functions, AWS Lambda, AWS Step Functions, API Gateway, Docker, Kubernetes, GitHub Actions, OAuth2, JWT, REST APIs
+
+INDUSTRIES: Enterprise Software, SaaS Platforms, E-commerce, Financial Services, FinTech, Travel & Hospitality, Logistics, Real Estate, AI-Powered Applications, Machine Learning Solutions, Intelligent Automation

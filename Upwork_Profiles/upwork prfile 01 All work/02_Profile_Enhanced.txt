@@ -1,0 +1,29 @@
+I am a Full Stack Developer and .NET Developer with 14+ years of experience architecting enterprise-scale systems, building scalable web applications, high-performance REST APIs, microservices architectures, and AI-powered automation solutions using C#, ASP.NET Core, .NET Core 6/7/8, Entity Framework Core, React, TypeScript, Azure, and AWS. Proven track record of reducing infrastructure costs by 25-30% while improving performance by 60-75% for systems handling 100K+ daily requests.
+
+I specialize in .NET Development (C#, ASP.NET Core Web API, .NET Core 6/7/8, Entity Framework Core, LINQ, Microservices Architecture, Clean Architecture, CQRS, Domain-Driven Design), Full Stack Development (React, TypeScript, JavaScript, Blazor), Backend Development (RESTful APIs, gRPC, GraphQL, API Development), Travel Technology (GDS Integration - Amadeus, Sabre, Galileo), and Cloud & DevOps (Azure Functions, App Services, Cosmos DB, Azure DevOps, Docker, Kubernetes, CI/CD). Also work with SQL Server, PostgreSQL, MongoDB, Redis, OAuth2, JWT, SignalR, RabbitMQ, Kafka.
+
+Key Achievements: Delivered 75% faster REST APIs (2000ms to 500ms) using .NET Core optimizations, parallel processing, async architecture, LINQ optimization, and Redis caching. Processed 100K+ daily API requests and 10M+ daily events with 99.9% uptime. Achieved 99.9–99.99% uptime on Azure/AWS, reducing costs by 25-30%. Reduced deployment time from 4 hours to 15 minutes (96% improvement). Led zero-downtime migration from .NET Framework to .NET 6/7, enabling 3x traffic growth. Integrated 20+ marketplace APIs (Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl). Developed GDS integrations (Amadeus, Sabre, Galileo) for travel technology platforms.
+
+I deliver end-to-end .NET and Full Stack solutions across backend APIs (.NET Core, ASP.NET Core), frontend development (React, TypeScript), travel technology integrations, E-commerce integrations, and cloud deployment (Azure, AWS) — taking projects from concept through deployment with clean, maintainable code, unit testing, and strong communication.
+
+PROJECT EXPERIENCE
+
+Tours and Activities API - Full Stack Developer / Backend Developer / .NET Developer / API Developer / Travel Technology Specialist
+Tech: .NET Core 7, ASP.NET Core Web API, C#, Entity Framework Core, SQL Server, Redis, Azure Service Bus, Hangfire, React, TypeScript, REST APIs, Microservices, GDS Integration
+Built enterprise booking API serving 100,000+ daily requests with 99.9% uptime. Integrated 20+ travel suppliers with GDS systems (Amadeus, Sabre, Galileo). Achieved 75% API response time improvement (2000ms to 500ms) through .NET Core optimizations, parallel processing, async architecture, LINQ optimization, and Redis caching. Reduced Azure costs by 30%. Developed React frontend with TypeScript for admin dashboard and booking management.
+
+RebookingAtLowerCostEngine - Full Stack Developer / Backend Developer / .NET Developer / API Developer / Travel Technology Specialist
+Tech: .NET Core 8, ASP.NET Core Web API, C#, Entity Framework Core, MongoDB, Redis, Azure, Azure Batch, Hangfire, React, TypeScript, Python ML APIs, OpenAI GPT-4, Machine Learning, REST APIs
+Developed AI-powered cost-optimization engine processing 10,000+ hotel reservations daily, achieving 15-30% cost savings through automated rebooking. Built scalable .NET Core backend APIs with Azure Batch processing for multi-supplier price comparison. Integrated OpenAI GPT-4 and Python ML APIs for intelligent rebooking recommendations. Implemented microservices architecture using .NET Core with Entity Framework Core for data access, Redis for high-performance caching, and Hangfire for background job processing. Developed React frontend with TypeScript for monitoring and analytics.
+
+Property Management System - Full Stack Developer / Backend Developer / .NET Developer / API Developer / Travel Technology Specialist
+Tech: .NET Core 7, ASP.NET Core Web API, C#, Entity Framework Core, SQL Server, Azure, Docker, React, TypeScript, REST APIs
+Built enterprise multi-tenant property management platform supporting 50+ properties and 1000+ facilities with React UI and .NET Core backend. Features include multi-tenant architecture, gate management, access control, and advanced reporting. Implemented RESTful API architecture with Entity Framework Core for data access, SQL Server database, Docker containerization, and Azure cloud hosting. Developed responsive React frontend with TypeScript for property management and reporting.
+
+E-commerce Integration Platform - Full Stack Developer / Backend Developer / .NET Developer / API Developer / Travel Technology Specialist
+Tech: .NET Core 8, ASP.NET Core Web API, C#, Entity Framework Core, SQL Server, Redis, Azure, React, TypeScript, REST APIs, Microservices
+Developed enterprise E-commerce integration platform processing 10,000+ products and orders daily with 150+ API endpoints. Integrated 20+ marketplace APIs (Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl). Achieved 80% query performance improvement through Entity Framework Core optimization, advanced indexing, and connection pooling. Built .NET Core microservices architecture with React frontend for dashboard and analytics.
+
+TECH STACK: C#, .NET Core 6/7/8, ASP.NET Core, ASP.NET Core Web API, Entity Framework Core, LINQ, React, TypeScript, JavaScript, Blazor, SQL Server, PostgreSQL, MongoDB, Redis, Azure Functions, App Services, Cosmos DB, Azure DevOps, Docker, Kubernetes, GitHub Actions, OAuth2, JWT, SignalR, RabbitMQ, Kafka, Amazon SP-API, Shopify API, WooCommerce API, REST APIs, gRPC, GraphQL, Amadeus, Sabre, Galileo
+
+INDUSTRIES: Enterprise Software, SaaS Platforms, E-commerce, Financial Services, FinTech, Travel & Hospitality, Logistics, Real Estate

@@ -1,0 +1,31 @@
+I am a Full Stack Developer (Full Stack Engineer / Full-Stack Engineer) with 14+ years of experience delivering scalable, high-performance web applications, enterprise platforms, and multi-tenant SaaS solutions. I specialize in Full Stack Development using React.js, Next.js, Angular, Vue.js, Node.js, Python, .NET Core, JavaScript, TypeScript, and RESTful APIs, with proven expertise in both frontend and backend development across Azure and AWS.
+
+I've optimized enterprise platforms to achieve 70–82% faster APIs, 10M+ daily event processing, 99.99% uptime, and 12–28% cloud cost savings on Azure/AWS. Delivered AI automations saving 300–500 hours/month, built real-time dashboards handling 10K–50K daily logistics events, and led zero-downtime migration from .NET Framework to .NET 6.
+
+I have built and deployed multi-tenant SaaS applications, real-time dashboards, and enterprise integrations using Next.js, React, Angular, Vue.js, Node.js, Express.js, Python, Django, .NET Core, ASP.NET Core, MySQL, MongoDB, SQL Server, Azure, and AWS. My approach combines clean code, CI/CD, Docker, Kubernetes, and Agile practices.
+
+Key Achievements: Delivered 75% faster REST APIs (2000ms to 500ms). Processed 100K+ daily API requests and 10M+ daily events with 99.9% uptime. Achieved 99.9–99.99% uptime on Azure/AWS, reducing costs by 25-30%. Reduced deployment time from 4 hours to 15 minutes (96% improvement). Saved 300–500 hours/month with AI automation, achieving 60% development time reduction. Led zero-downtime migration from .NET Framework to .NET 6/7, enabling 3x traffic growth. Integrated 20+ marketplace APIs (Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl).
+
+I deliver comprehensive end-to-end Full Stack solutions across frontend development (React, Angular, Vue, Next.js), backend APIs (.NET Core, Node.js, Python), cloud deployment (Azure, AWS), and database design (SQL Server, PostgreSQL, MongoDB, MySQL) — taking projects from concept through deployment with clean, maintainable code, unit testing, and strong communication.
+
+PROJECT EXPERIENCE
+
+Logistics Management System - Full Stack Developer / Node.js Developer / React Developer / E-commerce Developer / API Integration Specialist
+Tech: Node.js, Express.js, React, TypeScript, MySQL, AWS, Kafka, SQS, SNS, SignalR, AI/ML, Tailwind CSS
+Developed enterprise multi-marketplace synchronization platform supporting 100+ clients with real-time sync across 8+ marketplaces. Processing 10,000+ products and orders daily with 150+ API endpoints. Achieved 80% query performance improvement and 60% development time reduction. Integrated Amazon SP-API, Shopify, WooCommerce, Magento, eBay, Mirakl APIs. Built Node.js and Express.js backend with React 18 frontend. Implemented event-driven architecture with Kafka and AWS SQS/SNS.
+
+Property Management System - Full Stack Developer / Angular Developer / .NET Developer
+Tech: Angular 15+, TypeScript, .NET Core, ASP.NET Core Web API, C#, SQL Server, Azure, Docker, REST APIs
+Built enterprise multi-tenant property management platform supporting 50+ properties and 1000+ facilities with responsive Angular UI and .NET Core backend APIs. Features include multi-tenant architecture, gate management, access control, and advanced reporting. Implemented RESTful API architecture with SQL Server database, Docker containerization, and Azure.
+
+Lumora Resort Platform - Full Stack Developer / React Developer / Next.js Developer
+Tech: Next.js 13+, React 18, TypeScript, Tailwind CSS, GSAP, .NET Core backend, Azure, OpenAI GPT-4, Render.com
+Developed high-performance luxury resort platform achieving 95+ Lighthouse performance scores with Next.js 13+ and React 18. Integrated OpenAI GPT-4 for intelligent booking assistance. Deployed on Render.com.
+
+Real Estate Platform - Full Stack Developer / Python Developer / React Developer / Next.js Developer
+Tech: Django 5.2, Django REST Framework, Python 3.13+, Next.js 15.4, React 19, TypeScript, PostgreSQL, Redis, AWS S3, AI APIs
+Built comprehensive multi-tenant real estate marketplace platform with Django 5.2 backend and Next.js 15.4 frontend with React 19. Features include multi-role user management, property listings with location hierarchy, Mapbox GL map integration, AI APIs. Implemented PostgreSQL database with Redis caching on AWS with automated CI/CD.
+
+TECH STACK: C#, .NET Core 6/7/8, ASP.NET Core, Node.js, Express.js, Python, Django, FastAPI, Angular, React, Next.js, Vue.js, TypeScript, JavaScript, SQL Server, PostgreSQL, MySQL, MongoDB, Redis, Azure Functions, App Services, Cosmos DB, AWS Lambda, Docker, Kubernetes, GitHub Actions, Azure DevOps, OpenAI GPT-4, Azure Cognitive Services, Machine Learning, OAuth2, JWT, SignalR, RabbitMQ, Kafka, Amazon SP-API, Shopify API, WooCommerce API, REST APIs, gRPC, GraphQL
+
+INDUSTRIES: Enterprise Software, SaaS Platforms, E-commerce, Financial Services, FinTech, Travel & Hospitality, Logistics, Real Estate, AI-Powered Applications
