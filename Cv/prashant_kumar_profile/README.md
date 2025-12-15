@@ -129,20 +129,107 @@ With over two decades of executive technology leadership, I specialize in drivin
 
 ## Strategic Achievements
 
-| Metric | Achievement | Business Impact |
-|--------|-------------|-----------------|
-| **Executive Experience** | 20+ Years | C-suite technology leadership |
-| **Global Team Scaling** | 45+ Engineers | Built GCC across engineering, QA, DevOps, analytics |
-| **ML Accuracy** | 93%+ Hotel Mapping | AI-driven supplier integration across 50+ providers |
-| **API Ecosystem** | 350+ Suppliers | Standardized connectivity frameworks reducing onboarding time |
-| **SEO Infrastructure** | 120+ Microsites | Localized deployments driving organic growth |
-| **Customer Experience** | 40% Escalation Reduction | Telemetry-driven decision-making improving NPS |
-| **Engineering Throughput** | 30% Improvement | Agile transformation across 8 delivery pods |
-| **Platform Reliability** | Zero-Downtime Deployments | Blue-green deployment systems enabling continuous delivery |
-| **Commercial Impact** | SaaS Margin Optimization | Automation and cloud optimization strengthening gross margins |
-| **Geographic Reach** | India/EU/MEA Operations | Cross-regional delivery leadership and coordination |
-| **Enterprise Architecture** | Cloud-Native Transformation | Distributed systems modernization supporting global scale |
-| **Strategic Transactions** | TUI Group Acquisition | Technical due diligence and integration leadership |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>20+ Years</strong><br>
+Executive Experience<br>
+<sub>C-suite technology leadership</sub>
+</td>
+<td align="center" width="33%">
+<strong>45+ Engineers</strong><br>
+Global Team Scaling<br>
+<sub>Built GCC across engineering, QA, DevOps, analytics</sub>
+</td>
+<td align="center" width="33%">
+<strong>93%+</strong><br>
+ML Accuracy<br>
+<sub>AI-driven supplier integration across 50+ providers</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<strong>350+ Suppliers</strong><br>
+API Ecosystem<br>
+<sub>Standardized connectivity frameworks reducing onboarding time</sub>
+</td>
+<td align="center" width="33%">
+<strong>120+ Microsites</strong><br>
+SEO Infrastructure<br>
+<sub>Localized deployments driving organic growth</sub>
+</td>
+<td align="center" width="33%">
+<strong>40% Reduction</strong><br>
+Customer Escalations<br>
+<sub>Telemetry-driven decision-making improving NPS</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<strong>30% Improvement</strong><br>
+Engineering Throughput<br>
+<sub>Agile transformation across 8 delivery pods</sub>
+</td>
+<td align="center" width="33%">
+<strong>Zero-Downtime</strong><br>
+Platform Reliability<br>
+<sub>Blue-green deployment systems enabling continuous delivery</sub>
+</td>
+<td align="center" width="33%">
+<strong>Margin Optimization</strong><br>
+Commercial Impact<br>
+<sub>Automation and cloud optimization strengthening gross margins</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<strong>3 Regions</strong><br>
+Geographic Reach<br>
+<sub>India/EU/MEA cross-regional delivery leadership</sub>
+</td>
+<td align="center" width="33%">
+<strong>Cloud-Native</strong><br>
+Enterprise Architecture<br>
+<sub>Distributed systems modernization supporting global scale</sub>
+</td>
+<td align="center" width="33%">
+<strong>TUI Acquisition</strong><br>
+Strategic Transactions<br>
+<sub>Technical due diligence and integration leadership</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="right"><a href="#top">Back to Top</a></p>
+
+---
+
+## Career Timeline
+
+<div align="center">
+
+```mermaid
+timeline
+    title Executive Technology Leadership Journey
+    section CTO Leadership
+        Isango (Hotelbeds Group) : Platform Modernization
+                                    : 120+ Microsites
+                                    : PCI DSS Payment Systems
+                                    : Cloud-Native Architecture
+                                    : 30% Throughput Improvement
+    section CEO Leadership
+        DCS Plus (India) : AI-First Transformation
+                         : GCC Scaling (45+ Engineers)
+                         : SaaS Margin Optimization
+                         : Global Delivery Excellence
+                         : Strategic Technology Leadership
+```
+
+</div>
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -208,15 +295,15 @@ With over two decades of executive technology leadership, I specialize in drivin
 
 | Domain | Proficiency | Strategic Applications |
 |--------|-------------|----------------------|
-| **AI Leadership & ML Systems** | ████████████████████ 100% | LLM adoption, ML hotel mapping, AI-first SaaS, generative AI innovation |
-| **Enterprise Architecture** | ████████████████████ 100% | Cloud-native transformation, distributed systems, microservices architecture |
-| **Digital Transformation** | ████████████████████ 100% | Platform modernization, cloud migration, legacy evolution |
-| **SaaS Platform Strategy** | ████████████████████ 100% | Product leadership, P&L alignment, commercial technology, margin optimization |
-| **E-Commerce & Digital Commerce** | ████████████████████ 100% | Payment systems, PCI DSS compliance, multi-currency transactions, marketplace platforms |
-| **Travel Technology** | ████████████████████ 100% | Booking engines, supplier ecosystems, payment systems, content platforms |
-| **Global Delivery Excellence** | ████████████████████ 100% | Multi-region coordination, GCC leadership, distributed team management |
-| **API Ecosystems** | ██████████████████░░ 90% | 350+ supplier integrations, standardized frameworks, connectivity optimization |
-| **Cloud Modernization** | ██████████████████░░ 90% | Azure, AWS, Kubernetes, infrastructure automation, zero-downtime deployments |
+| **AI Leadership & ML Systems** | ![100%](https://img.shields.io/badge/100%25-00D4AA?style=flat-square) ████████████████████ | LLM adoption, ML hotel mapping, AI-first SaaS, generative AI innovation |
+| **Enterprise Architecture** | ![100%](https://img.shields.io/badge/100%25-00D4AA?style=flat-square) ████████████████████ | Cloud-native transformation, distributed systems, microservices architecture |
+| **Digital Transformation** | ![100%](https://img.shields.io/badge/100%25-00D4AA?style=flat-square) ████████████████████ | Platform modernization, cloud migration, legacy evolution |
+| **SaaS Platform Strategy** | ![100%](https://img.shields.io/badge/100%25-00D4AA?style=flat-square) ████████████████████ | Product leadership, P&L alignment, commercial technology, margin optimization |
+| **E-Commerce & Digital Commerce** | ![100%](https://img.shields.io/badge/100%25-00D4AA?style=flat-square) ████████████████████ | Payment systems, PCI DSS compliance, multi-currency transactions, marketplace platforms |
+| **Travel Technology** | ![100%](https://img.shields.io/badge/100%25-00D4AA?style=flat-square) ████████████████████ | Booking engines, supplier ecosystems, payment systems, content platforms |
+| **Global Delivery Excellence** | ![100%](https://img.shields.io/badge/100%25-00D4AA?style=flat-square) ████████████████████ | Multi-region coordination, GCC leadership, distributed team management |
+| **API Ecosystems** | ![90%](https://img.shields.io/badge/90%25-FF6B35?style=flat-square) ██████████████████░░ | 350+ supplier integrations, standardized frameworks, connectivity optimization |
+| **Cloud Modernization** | ![90%](https://img.shields.io/badge/90%25-FF6B35?style=flat-square) ██████████████████░░ | Azure, AWS, Kubernetes, infrastructure automation, zero-downtime deployments |
 
 </div>
 
