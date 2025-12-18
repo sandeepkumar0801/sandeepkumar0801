@@ -1,0 +1,47 @@
+
+
+customer sends email with requiremnts 
+demand forcast is generated and appvoed by account team
+demand forcast/ perfoma invoice are creted and sent to customer for appvoal
+sale lead is created  and this pi and used to track enire process to know entire progress and state of cusmre's order
+Sale orde is created and fufilled either by procuring from suppliers or mnufacturing or mix of the two
+
+After sale order procution plan is creatd , reviewed and appoved for manufacturing porduct
+after pruction inpection , quaility check and then dispatch happens (logistic and tracking happens after it for fulfillment)
+
+after cutomer approval demand are generated
+purchse order are created and appoved by accouts team
+
+supplier fullfill purhmcase order and send required matierial/items
+order receive from supplier 
+gate in 
+
+stock receive
+after receive
+quality check , item inspection and allocation
+	  verify quality, quality
+	  after inspection reject/accept full/partial items 
+	  if rejection some/all items then upload some document/images to support rejection reason
+	  detemine expiry during inspeaction 
+	  label genration for recevied items 
+	  allocate to store and racks 	
+aftery quality inspection , 
+stokc inspection happens (detemine quantity that will be received)
+	  barcodes are scanned and autmtically details are pupulated and pushed into stock system	
+
+Single order can be fullfilled by supplier in batches and prices may varie
+
+After allocation stock are updated and visible in stock reports 	  
+Accoutn teams gets noticifed and supplier invoices gets updated as per full/partial stock received against purchase order
+and than supplier invoices asre sattled by account team as per sattlement cyclyeand and contract  
+
+Note :- stocks minimum quanityt are maintained and if stock goes below than respective teams are notified 
+
+
+Stocks are mainaied in main store in one branch,
+there could be mulitple branch acorss geography 
+store to store or branch to branch stock can be tranferred upon reuirement
+then these are allocation to respective production line stre prom where it goes into consumtion for creating actual produc
+
+Dispach is for product manufacured in plan. full barcode scanned and tracked
+Outpass is for sending (finished)/(raw materials)/(or other puchsed item) outside plant. full barcode scanned and tracked
